@@ -1,0 +1,2347 @@
+Year,Vehicle Type,Activity,Fuel Type,Full Unit,Value
+2012,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.649284998
+2012,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.626994658
+2012,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.50024121
+2012,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.527943309
+2012,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,0.847553817
+2012,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,0.806325674
+2012,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.48543101
+2012,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.695314598
+2012,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.506484731
+2012,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.557601988
+2012,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.5356078
+2012,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.58542
+2012,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.3541
+2012,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.19234
+2012,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.24858
+2012,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.16198
+2012,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.08473
+2012,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.08825
+2012,HGV (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.12366
+2012,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,4.25539
+2012,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,2.55902
+2012,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,1.3213198
+2012,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,2.25071
+2012,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,1.35314
+2012,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.69868
+2012,Rail,Freight train,,kg CO2e/tonne.km,0.03063
+2012,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.00292
+2012,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.00443
+2012,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.00595
+2012,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.00756
+2012,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.00917
+2012,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.03357
+2012,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.00454
+2012,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.00574
+2012,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.01038
+2012,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01885
+2012,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.02943
+2012,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.04535
+2012,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.00898
+2012,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.00846
+2012,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01088
+2012,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.01522
+2012,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.02238
+2012,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.01026
+2012,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.00937
+2012,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.01461
+2012,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.01148
+2012,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.00907
+2012,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.04384
+2012,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.01032
+2012,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.00252
+2012,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.00302
+2012,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.00413
+2012,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.00574
+2012,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.00796
+2012,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.02943
+2012,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.00352
+2012,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.01199
+2012,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.01593
+2012,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.01401
+2012,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.01108
+2012,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.01764
+2012,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.01996
+2012,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.01315
+2012,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.0126
+2012,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.01674
+2012,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.01674
+2012,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.02016
+2012,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.03236
+2012,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.03659
+2012,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.01605
+2012,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.03226
+2012,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.05806
+2012,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.03835
+2012,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.0499
+2012,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.06078
+2012,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.05136
+2012,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.38741
+2012,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.013
+2013,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.650217503
+2013,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.629667267
+2013,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.504733258
+2013,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.531950957
+2013,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,0.824213301
+2013,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,0.80545922
+2013,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.483539079
+2013,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.68766141
+2013,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.511844093
+2013,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.560121657
+2013,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.539574697
+2013,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.54066
+2013,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.28322
+2013,HGV (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.20472
+2013,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.14566
+2013,HGV (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.09894
+2013,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.29173
+2013,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.15913
+2013,HGV (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.12059
+2013,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.08724
+2013,HGV (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.0617
+2013,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.58396
+2013,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.35322
+2013,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.19186
+2013,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.24796
+2013,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.16159
+2013,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.08452
+2013,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.08804
+2013,HGV (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.12335
+2013,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.647662
+2013,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.339268
+2013,HGV refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.245222
+2013,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.174482
+2013,HGV refrigerated (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.1185
+2013,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.349506
+2013,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.190652
+2013,HGV refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.144476
+2013,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.104534
+2013,HGV refrigerated (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.073926
+2013,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.69951
+2013,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.423114
+2013,HGV refrigerated (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.229824
+2013,HGV refrigerated (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.297026
+2013,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.193556
+2013,HGV refrigerated (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.10124
+2013,HGV refrigerated (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.105456
+2013,HGV refrigerated (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.147624
+2013,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,4.13695512
+2013,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,2.5723764
+2013,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,1.30865328
+2013,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,2.188134
+2013,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,1.3601952
+2013,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.6919776
+2013,Rail,Freight train,,kg CO2e/tonne.km,0.02721
+2013,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.00292
+2013,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.00443
+2013,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.00595
+2013,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.00756
+2013,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.00917
+2013,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.03357
+2013,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.00454
+2013,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.00574
+2013,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.01038
+2013,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01885
+2013,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.02943
+2013,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.04536
+2013,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.00898
+2013,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.00846
+2013,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01088
+2013,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.01522
+2013,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.02238
+2013,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.01026
+2013,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.00937
+2013,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.01461
+2013,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.01148
+2013,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.00907
+2013,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.04384
+2013,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.01032
+2013,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.00252
+2013,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.00302
+2013,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.00413
+2013,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.00574
+2013,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.00796
+2013,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.02943
+2013,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.00352
+2013,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.01199
+2013,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.01593
+2013,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.01401
+2013,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.01108
+2013,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.01764
+2013,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.01996
+2013,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.01315
+2013,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.0126
+2013,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.01674
+2013,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.01674
+2013,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.02016
+2013,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.03236
+2013,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.03659
+2013,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.01605
+2013,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.03226
+2013,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.05806
+2013,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.03835
+2013,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.0499
+2013,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.06078
+2013,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.05136
+2013,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.38741
+2013,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.013
+2014,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.650217503
+2014,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.629667267
+2014,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.504733258
+2014,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.531950957
+2014,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,0.824213301
+2014,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,0.80545922
+2014,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.483539079
+2014,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.68766141
+2014,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.511869158
+2014,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.559808921
+2014,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.539824059
+2014,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.54007
+2014,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.28291
+2014,HGV (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.2045
+2014,HGV (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.26039
+2014,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.14547
+2014,HGV (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.09881
+2014,HGV (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.10182
+2014,HGV (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.13651
+2014,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.29142
+2014,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.15896
+2014,HGV (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.12046
+2014,HGV (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.15338
+2014,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.08713
+2014,HGV (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.06162
+2014,HGV (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.06098
+2014,HGV (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.08114
+2014,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.58332
+2014,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.35283
+2014,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.19165
+2014,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.24769
+2014,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.16139
+2014,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.08442
+2014,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.08793
+2014,HGV (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.1232
+2014,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.642836962
+2014,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.336756427
+2014,HGV refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.2433934
+2014,HGV refrigerated (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.309919636
+2014,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.168816751
+2014,HGV refrigerated (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.114647679
+2014,HGV refrigerated (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.119636126
+2014,HGV refrigerated (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.160393424
+2014,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.346904159
+2014,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.189247894
+2014,HGV refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.14340289
+2014,HGV refrigerated (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.182618501
+2014,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.101131402
+2014,HGV refrigerated (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.071517739
+2014,HGV refrigerated (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.071669675
+2014,HGV refrigerated (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.095366362
+2014,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.694308319
+2014,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.419964032
+2014,HGV refrigerated (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.228115448
+2014,HGV refrigerated (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.294818602
+2014,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.187272903
+2014,HGV refrigerated (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.097957876
+2014,HGV refrigerated (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.103324053
+2014,HGV refrigerated (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.144655428
+2014,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,4.78757
+2014,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,2.09553
+2014,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,1.1868
+2014,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,2.53199
+2014,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,1.10805
+2014,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.62754
+2014,Rail,Freight train,,kg CO2e/tonne.km,0.02831
+2014,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.002923
+2014,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.004435
+2014,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.005947
+2014,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.00756
+2014,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.009173
+2014,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.033567
+2014,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2014,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.005746
+2014,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.010382
+2014,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01885
+2014,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.029434
+2014,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.045361
+2014,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.008982
+2014,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.008468
+2014,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.010887
+2014,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.015221
+2014,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.022378
+2014,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.010261
+2014,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.009375
+2014,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.014616
+2014,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.011482
+2014,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.009072
+2014,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.043848
+2014,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.010322
+2014,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.00252
+2014,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.003024
+2014,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.004133
+2014,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.005746
+2014,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.007964
+2014,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.029434
+2014,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2014,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.011995
+2014,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.015926
+2014,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.014012
+2014,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.011089
+2014,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.017641
+2014,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.019958
+2014,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013154
+2014,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.0126
+2014,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.016733
+2014,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.016733
+2014,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.020161
+2014,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.032357
+2014,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.036591
+2014,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016047
+2014,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.032256
+2014,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.058062
+2014,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.038355
+2014,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.049897
+2014,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.060784
+2014,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.051359
+2014,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.38742
+2014,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.013003
+2015,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.61213959
+2015,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.633422511
+2015,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.502728271
+2015,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.529971852
+2015,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,0.810250812
+2015,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,0.806108861
+2015,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.483084138
+2015,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.683723359
+2015,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.506374604
+2015,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.557671248
+2015,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.538072053
+2015,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.50559
+2015,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.26929
+2015,HGV (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.23057
+2015,HGV (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.28984
+2015,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.14278
+2015,HGV (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.09995
+2015,HGV (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.10441
+2015,HGV (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.14635
+2015,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.27281
+2015,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.15131
+2015,HGV (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.13582
+2015,HGV (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.17073
+2015,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.08553
+2015,HGV (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.06234
+2015,HGV (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.06254
+2015,HGV (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.08704
+2015,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.55731
+2015,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.36024
+2015,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.17398
+2015,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.21249
+2015,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.1343
+2015,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.08164
+2015,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.0855
+2015,HGV (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.11364
+2015,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.601983142
+2015,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.320641903
+2015,HGV refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.274509713
+2015,HGV refrigerated (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.345078056
+2015,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.165620287
+2015,HGV refrigerated (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.115928443
+2015,HGV refrigerated (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.122582898
+2015,HGV refrigerated (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.171813223
+2015,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.324860949
+2015,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.180184242
+2015,HGV refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.161744373
+2015,HGV refrigerated (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.2033313
+2015,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.099227849
+2015,HGV refrigerated (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.072310277
+2015,HGV refrigerated (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.073427739
+2015,HGV refrigerated (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.102210328
+2015,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.663555251
+2015,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.428913975
+2015,HGV refrigerated (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.207147098
+2015,HGV refrigerated (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.252998036
+2015,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.155770515
+2015,HGV refrigerated (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.094691877
+2015,HGV refrigerated (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.100381972
+2015,HGV refrigerated (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.133299183
+2015,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,5.45119
+2015,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,2.31277
+2015,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,1.27944
+2015,Freight flights,"International, to/from non-UK",With RF,kg CO2e/tonne.km,1.27944
+2015,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,2.88289
+2015,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,1.22292
+2015,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.67653
+2015,Freight flights,"International, to/from non-UK",Without RF,kg CO2e/tonne.km,0.67653
+2015,Rail,Freight train,,kg CO2e/tonne.km,0.02601
+2015,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.002923
+2015,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.004435
+2015,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.005948
+2015,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.00756
+2015,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.009173
+2015,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.033569
+2015,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2015,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.005746
+2015,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.010383
+2015,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.018851
+2015,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.029436
+2015,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.045363
+2015,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.008982
+2015,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.008468
+2015,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.010888
+2015,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.015222
+2015,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.022379
+2015,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.010262
+2015,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.009375
+2015,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.014617
+2015,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.011482
+2015,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.009073
+2015,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.04385
+2015,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.010322
+2015,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.00252
+2015,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.003024
+2015,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.004133
+2015,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.005746
+2015,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.007964
+2015,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.029436
+2015,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2015,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.011996
+2015,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.015927
+2015,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.014013
+2015,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.011089
+2015,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.017641
+2015,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.019959
+2015,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013155
+2015,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.012601
+2015,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.016733
+2015,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.016733
+2015,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.020162
+2015,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.032359
+2015,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.036593
+2015,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016048
+2015,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.032258
+2015,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.058065
+2015,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.038356
+2015,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.049899
+2015,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.060786
+2015,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.051361
+2015,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.387439
+2015,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.013004
+2016,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.654076507
+2016,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.673875211
+2016,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.534242023
+2016,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.563450338
+2016,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,1.093282378
+2016,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,1.087329956
+2016,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.6487891
+2016,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.921718853
+2016,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.541590341
+2016,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.591708784
+2016,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.577389971
+2016,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.49657
+2016,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.30148
+2016,HGV (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.20484
+2016,HGV (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.2476
+2016,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.1411
+2016,HGV (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.09755
+2016,HGV (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.10279
+2016,HGV (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.13572
+2016,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.26792
+2016,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.16937
+2016,HGV (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.12063
+2016,HGV (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.14589
+2016,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.0845
+2016,HGV (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.06082
+2016,HGV (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.06152
+2016,HGV (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.08069
+2016,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.55892
+2016,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.36754
+2016,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.17107
+2016,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.20916
+2016,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.14581
+2016,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.08148
+2016,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.08672
+2016,HGV (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.1143
+2016,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.591106795
+2016,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.358892356
+2016,HGV refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.243816135
+2016,HGV refrigerated (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.294873398
+2016,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.163597365
+2016,HGV refrigerated (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.113089617
+2016,HGV refrigerated (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.119117967
+2016,HGV refrigerated (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.159286289
+2016,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.318965038
+2016,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.201665173
+2016,HGV refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.143626151
+2016,HGV refrigerated (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.173781285
+2016,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.097997774
+2016,HGV refrigerated (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.070532462
+2016,HGV refrigerated (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.07132278
+2016,HGV refrigerated (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.094735187
+2016,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.665328008
+2016,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.437510947
+2016,HGV refrigerated (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.203636803
+2016,HGV refrigerated (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.249105144
+2016,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.169055718
+2016,HGV refrigerated (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.094469733
+2016,HGV refrigerated (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.100516147
+2016,HGV refrigerated (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.134076158
+2016,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,4.98157
+2016,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,2.18966
+2016,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,1.41112
+2016,Freight flights,"International, to/from non-UK",With RF,kg CO2e/tonne.km,1.41112
+2016,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,2.63419
+2016,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,1.15763
+2016,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.74603
+2016,Freight flights,"International, to/from non-UK",Without RF,kg CO2e/tonne.km,0.74603
+2016,Rail,Freight train,,kg CO2e/tonne.km,0.029500348
+2016,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.002923
+2016,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.004435
+2016,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.005946
+2016,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.007559
+2016,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.009172
+2016,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.033561
+2016,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2016,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.005744
+2016,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.010381
+2016,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.018846
+2016,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.029428
+2016,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.045353
+2016,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.008979
+2016,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.008465
+2016,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.010884
+2016,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.015218
+2016,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.022374
+2016,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.01026
+2016,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.009373
+2016,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.014614
+2016,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.011479
+2016,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.009071
+2016,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.043841
+2016,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.01032
+2016,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.00252
+2016,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.003023
+2016,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.004133
+2016,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.005744
+2016,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.007962
+2016,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.029428
+2016,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003517
+2016,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.011994
+2016,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.015924
+2016,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.014008
+2016,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.011086
+2016,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.017637
+2016,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.019955
+2016,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013152
+2016,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.012598
+2016,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.016729
+2016,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.016729
+2016,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.020157
+2016,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.032352
+2016,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.036584
+2016,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016044
+2016,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.03225
+2016,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.058051
+2016,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.038348
+2016,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.049887
+2016,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.060773
+2016,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.051349
+2016,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.387349
+2016,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.013001
+2017,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.633777877
+2017,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.65286942
+2017,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.517570077
+2017,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.545875038
+2017,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,1.012294609
+2017,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,1.00683717
+2017,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.600809377
+2017,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.853480942
+2017,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.536696857
+2017,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.586924645
+2017,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.553272767
+2017,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.41206
+2017,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.39799
+2017,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.42286
+2017,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.39839
+2017,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.49101
+2017,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.26871
+2017,HGV (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.20061
+2017,HGV (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.23948
+2017,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.12898
+2017,HGV (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.09363
+2017,HGV (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.09439
+2017,HGV (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.12707
+2017,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.26488
+2017,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.15093
+2017,HGV (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.11811
+2017,HGV (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.14107
+2017,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.07722
+2017,HGV (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.05835
+2017,HGV (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.05648
+2017,HGV (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.07553
+2017,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.51988
+2017,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.30706
+2017,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.16322
+2017,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.19692
+2017,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.14048
+2017,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.07735
+2017,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.07874
+2017,HGV (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.10559
+2017,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.584356855
+2017,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.319803559
+2017,HGV refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.2387187
+2017,HGV refrigerated (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.285153407
+2017,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.149399413
+2017,HGV refrigerated (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.108445718
+2017,HGV refrigerated (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.109275914
+2017,HGV refrigerated (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.149006546
+2017,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.31528761
+2017,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.179670488
+2017,HGV refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.140584095
+2017,HGV refrigerated (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.168016616
+2017,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.089472289
+2017,HGV refrigerated (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.067602973
+2017,HGV refrigerated (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.06541219
+2017,HGV refrigerated (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.088597389
+2017,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.618708666
+2017,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.365431169
+2017,HGV refrigerated (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.194247627
+2017,HGV refrigerated (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.23448919
+2017,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.162725042
+2017,HGV refrigerated (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.089592666
+2017,HGV refrigerated (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.091170324
+2017,HGV refrigerated (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.123723978
+2017,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,5.11535
+2017,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,1.99837
+2017,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,1.45648
+2017,Freight flights,"International, to/from non-UK",With RF,kg CO2e/tonne.km,1.45648
+2017,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,2.70488
+2017,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,1.05649
+2017,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.77001
+2017,Freight flights,"International, to/from non-UK",Without RF,kg CO2e/tonne.km,0.77001
+2017,Rail,Freight train,,kg CO2e/tonne.km,0.03394115
+2017,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.002923
+2017,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.004435
+2017,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.005946
+2017,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.007559
+2017,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.009172
+2017,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.033561
+2017,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2017,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.005744
+2017,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.010381
+2017,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.018846
+2017,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.029428
+2017,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.045353
+2017,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.008979
+2017,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.008466
+2017,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.010884
+2017,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.015218
+2017,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.022374
+2017,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.01026
+2017,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.009373
+2017,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.014614
+2017,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.011479
+2017,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.009071
+2017,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.043841
+2017,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.01032
+2017,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.00252
+2017,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.003023
+2017,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.004133
+2017,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.005744
+2017,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.007962
+2017,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.029428
+2017,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003517
+2017,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.011994
+2017,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.015924
+2017,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.014009
+2017,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.011086
+2017,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.017637
+2017,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.019955
+2017,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013152
+2017,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.012598
+2017,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.01673
+2017,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.01673
+2017,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.020157
+2017,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.032352
+2017,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.036584
+2017,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016045
+2017,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.03225
+2017,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.058051
+2017,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.038348
+2017,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.049888
+2017,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.060773
+2017,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.051349
+2017,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.387514
+2017,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.013001
+2018,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.63206
+2018,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.65111
+2018,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.51618
+2018,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.54441
+2018,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,0.9623
+2018,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,0.95734
+2018,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.57148
+2018,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.8115
+2018,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.5297
+2018,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.58208
+2018,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.55039
+2018,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.32928
+2018,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.34395
+2018,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.33791
+2018,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.34383
+2018,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.47776
+2018,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.26706
+2018,HGV (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.20232
+2018,HGV (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.23502
+2018,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.12903
+2018,HGV (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.09774
+2018,HGV (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.09875
+2018,HGV (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.13136
+2018,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.25773
+2018,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.14999
+2018,HGV (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.1191
+2018,HGV (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.13842
+2018,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.07723
+2018,HGV (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.0609
+2018,HGV (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.05909
+2018,HGV (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.07807
+2018,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.48674
+2018,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.3581
+2018,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.17927
+2018,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.21334
+2018,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.14054
+2018,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.08348
+2018,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.08525
+2018,HGV (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.1136
+2018,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.56855323
+2018,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.31782007
+2018,HGV refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.240746897
+2018,HGV refrigerated (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.279820862
+2018,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.149514663
+2018,HGV refrigerated (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.113239514
+2018,HGV refrigerated (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.114373459
+2018,HGV refrigerated (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.154045909
+2018,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.306753831
+2018,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.178548526
+2018,HGV refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.141772197
+2018,HGV refrigerated (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.164850658
+2018,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.089519832
+2018,HGV refrigerated (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.070596995
+2018,HGV refrigerated (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.068464719
+2018,HGV refrigerated (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.091595159
+2018,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.579227066
+2018,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.426155501
+2018,HGV refrigerated (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.213333226
+2018,HGV refrigerated (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.254004264
+2018,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.1628352
+2018,HGV refrigerated (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.096719195
+2018,HGV refrigerated (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.098738694
+2018,HGV refrigerated (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.13313319
+2018,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,5.8333
+2018,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,1.9469
+2018,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,1.23205
+2018,Freight flights,"International, to/from non-UK",With RF,kg CO2e/tonne.km,1.23205
+2018,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,3.085
+2018,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,1.02929
+2018,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.65135
+2018,Freight flights,"International, to/from non-UK",Without RF,kg CO2e/tonne.km,0.65135
+2018,Rail,Freight train,,kg CO2e/tonne.km,0.033505329
+2018,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.002941
+2018,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.004461
+2018,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.005983
+2018,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.007606
+2018,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.009227
+2018,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.033767
+2018,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.004574
+2018,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.00578
+2018,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.010444
+2018,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.018962
+2018,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.029609
+2018,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.045631
+2018,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.009035
+2018,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.008518
+2018,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.010952
+2018,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.015312
+2018,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.022511
+2018,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.010322
+2018,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.00943
+2018,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.014703
+2018,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.01155
+2018,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.009126
+2018,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.04411
+2018,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.010383
+2018,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.002535
+2018,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.003042
+2018,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.004157
+2018,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.00578
+2018,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.008011
+2018,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.029609
+2018,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003539
+2018,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.012067
+2018,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.016021
+2018,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.014095
+2018,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.011154
+2018,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.017745
+2018,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.020078
+2018,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013233
+2018,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.012675
+2018,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.016833
+2018,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.016833
+2018,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.020281
+2018,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.03255
+2018,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.036809
+2018,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016143
+2018,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.032449
+2018,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.058407
+2018,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.038583
+2018,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.050194
+2018,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.061145
+2018,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.051664
+2018,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.376706
+2018,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.01308
+2019,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.83071
+2019,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.62316
+2019,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.61429
+2019,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.62001
+2019,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,1.21097
+2019,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,0.75887
+2019,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.85852
+2019,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.7696
+2019,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.61038
+2019,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.67106
+2019,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.62486
+2019,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.31405
+2019,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.36798
+2019,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.29565
+2019,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.36732
+2019,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.47371
+2019,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.27302
+2019,HGV (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.21176
+2019,HGV (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.23378
+2019,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.12759
+2019,HGV (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.09662
+2019,HGV (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.09749
+2019,HGV (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.12835
+2019,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.25559
+2019,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.15338
+2019,HGV (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.12471
+2019,HGV (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.13539
+2019,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.07634
+2019,HGV (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.06017
+2019,HGV (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.06058
+2019,HGV (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.0775
+2019,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.52218
+2019,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.41966
+2019,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.18925
+2019,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.2197
+2019,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.13651
+2019,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.08157
+2019,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.08329
+2019,HGV (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.11133
+2019,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.56402
+2019,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.32509
+2019,HGV refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.25211
+2019,HGV refrigerated (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.27835
+2019,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.14778
+2019,HGV refrigerated (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.11188
+2019,HGV refrigerated (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.11289
+2019,HGV refrigerated (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.15045
+2019,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.30436
+2019,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.18268
+2019,HGV refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.14852
+2019,HGV refrigerated (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.16124
+2019,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.08846
+2019,HGV refrigerated (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.06971
+2019,HGV refrigerated (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.07018
+2019,HGV refrigerated (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.09088
+2019,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.62173
+2019,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.49966
+2019,HGV refrigerated (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.22533
+2019,HGV refrigerated (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.26158
+2019,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.1581
+2019,HGV refrigerated (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.09448
+2019,HGV refrigerated (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.09647
+2019,HGV refrigerated (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.13051
+2019,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,4.99674
+2019,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,2.37968
+2019,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,1.13174
+2019,Freight flights,"International, to/from non-UK",With RF,kg CO2e/tonne.km,1.13174
+2019,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,2.6427
+2019,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,1.25809
+2019,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.59833
+2019,Freight flights,"International, to/from non-UK",Without RF,kg CO2e/tonne.km,0.59833
+2019,Rail,Freight train,,kg CO2e/tonne.km,0.03333
+2019,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.002941
+2019,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.004461
+2019,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.005982
+2019,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.007604
+2019,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.009227
+2019,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.033764
+2019,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.004572
+2019,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.00578
+2019,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.010443
+2019,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.018961
+2019,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.029607
+2019,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.045627
+2019,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.009034
+2019,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.008517
+2019,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01095
+2019,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.015311
+2019,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.02251
+2019,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.010322
+2019,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.00943
+2019,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.014702
+2019,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.011548
+2019,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.009126
+2019,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.044106
+2019,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.010383
+2019,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.002535
+2019,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.003042
+2019,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.004157
+2019,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.00578
+2019,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.00801
+2019,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.029607
+2019,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003539
+2019,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.012066
+2019,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.01602
+2019,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.014093
+2019,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.011153
+2019,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.017743
+2019,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.020076
+2019,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013232
+2019,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.012674
+2019,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.016831
+2019,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.016831
+2019,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.020279
+2019,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.032547
+2019,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.036806
+2019,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016142
+2019,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.032446
+2019,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.058402
+2019,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.03858
+2019,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.05019
+2019,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.06114
+2019,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.051659
+2019,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.376674
+2019,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.01308
+2020,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.82327
+2020,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.65431
+2020,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.60298
+2020,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.61628
+2020,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,1.093
+2020,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,0.73972
+2020,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.79526
+2020,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.72681
+2020,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.61753
+2020,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.67917
+2020,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.61986
+2020,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.21174
+2020,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.27305
+2020,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.25689
+2020,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.27271
+2020,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.46236
+2020,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.25377
+2020,HGV (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.20283
+2020,HGV (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.2268
+2020,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.12054
+2020,HGV (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.0931
+2020,HGV (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.09403
+2020,HGV (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.12464
+2020,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.24945
+2020,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.14256
+2020,HGV (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.11944
+2020,HGV (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.13129
+2020,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.07212
+2020,HGV (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.05797
+2020,HGV (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.05843
+2020,HGV (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.07524
+2020,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.52043
+2020,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.36835
+2020,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.18306
+2020,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.21275
+2020,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.14179
+2020,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.07773
+2020,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.07936
+2020,HGV (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.1065
+2020,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.55043
+2020,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.30213
+2020,HGV refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.24145
+2020,HGV refrigerated (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.26999
+2020,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.13955
+2020,HGV refrigerated (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.10775
+2020,HGV refrigerated (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.10883
+2020,HGV refrigerated (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.14606
+2020,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.29701
+2020,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.16976
+2020,HGV refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.14223
+2020,HGV refrigerated (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.15633
+2020,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.08352
+2020,HGV refrigerated (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.06713
+2020,HGV refrigerated (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.06767
+2020,HGV refrigerated (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.0882
+2020,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.61955
+2020,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.4385
+2020,HGV refrigerated (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.21793
+2020,HGV refrigerated (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.25327
+2020,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.16414
+2020,HGV refrigerated (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.08998
+2020,HGV refrigerated (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.09187
+2020,HGV refrigerated (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.12481
+2020,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,4.76719
+2020,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,2.20946
+2020,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,1.13382
+2020,Freight flights,"International, to/from non-UK",With RF,kg CO2e/tonne.km,1.13382
+2020,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,2.52129
+2020,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,1.1681
+2020,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.59943
+2020,Freight flights,"International, to/from non-UK",Without RF,kg CO2e/tonne.km,0.59943
+2020,Rail,Freight train,,kg CO2e/tonne.km,0.02556
+2020,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.002941
+2020,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.004461
+2020,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.005982
+2020,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.007604
+2020,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.009227
+2020,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.033764
+2020,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.004572
+2020,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.00578
+2020,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.010443
+2020,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.018961
+2020,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.029607
+2020,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.045627
+2020,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.009034
+2020,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.008517
+2020,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01095
+2020,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.015311
+2020,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.02251
+2020,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.010322
+2020,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.00943
+2020,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.014702
+2020,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.011548
+2020,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.009126
+2020,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.044106
+2020,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.010383
+2020,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.002535
+2020,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.003042
+2020,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.004157
+2020,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.00578
+2020,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.00801
+2020,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.029607
+2020,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003539
+2020,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.012066
+2020,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.01602
+2020,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.014093
+2020,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.011153
+2020,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.017744
+2020,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.020076
+2020,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013232
+2020,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.012674
+2020,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.016831
+2020,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.016831
+2020,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.020279
+2020,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.032548
+2020,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.036806
+2020,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016142
+2020,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.032446
+2020,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.058402
+2020,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.038581
+2020,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.05019
+2020,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.06114
+2020,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.051659
+2020,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.376675
+2020,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.01308
+2021,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.81485
+2021,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.6292
+2021,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.59232
+2021,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.60261
+2021,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,1.07383
+2021,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,0.72057
+2021,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.77569
+2021,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.71915
+2021,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.61515
+2021,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.67659
+2021,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.60635
+2021,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.18776
+2021,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.24576
+2021,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.22935
+2021,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.24547
+2021,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.45065
+2021,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.24072
+2021,HGV (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.20394
+2021,HGV (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.2208
+2021,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.12217
+2021,HGV (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.09496
+2021,HGV (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.09557
+2021,HGV (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.12158
+2021,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.24312
+2021,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.13522
+2021,HGV (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.12009
+2021,HGV (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.12834
+2021,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.07309
+2021,HGV (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.05913
+2021,HGV (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.05944
+2021,HGV (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.07375
+2021,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.48674
+2021,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.34002
+2021,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.18142
+2021,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.2078
+2021,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.12626
+2021,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.08017
+2021,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.0812
+2021,HGV (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.10749
+2021,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.5365
+2021,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.2866
+2021,HGV refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.24278
+2021,HGV refrigerated (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.26286
+2021,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.14129
+2021,HGV refrigerated (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.1098
+2021,HGV refrigerated (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.1105
+2021,HGV refrigerated (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.14236
+2021,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.28948
+2021,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.16103
+2021,HGV refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.143
+2021,HGV refrigerated (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.15283
+2021,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.08456
+2021,HGV refrigerated (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.0684
+2021,HGV refrigerated (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.06876
+2021,HGV refrigerated (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.08639
+2021,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.57946
+2021,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.40479
+2021,HGV refrigerated (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.21598
+2021,HGV refrigerated (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.24739
+2021,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.14602
+2021,HGV refrigerated (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.09272
+2021,HGV refrigerated (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.0939
+2021,HGV refrigerated (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.12588
+2021,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,4.49363
+2021,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,2.30229
+2021,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,1.0189
+2021,Freight flights,"International, to/from non-UK",With RF,kg CO2e/tonne.km,1.0189
+2021,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,2.3765
+2021,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,1.21717
+2021,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.53867
+2021,Freight flights,"International, to/from non-UK",Without RF,kg CO2e/tonne.km,0.53867
+2021,Rail,Freight train,,kg CO2e/tonne.km,0.02782
+2021,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.00294
+2021,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.004461
+2021,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.005982
+2021,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.007604
+2021,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.009227
+2021,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.033763
+2021,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.004572
+2021,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.00578
+2021,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.010443
+2021,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.018961
+2021,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.029607
+2021,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.045626
+2021,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.009034
+2021,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.008517
+2021,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01095
+2021,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.015311
+2021,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.022509
+2021,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.010322
+2021,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.00943
+2021,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.014701
+2021,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.011548
+2021,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.009126
+2021,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.044105
+2021,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.010382
+2021,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.002535
+2021,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.003042
+2021,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.004157
+2021,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.00578
+2021,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.00801
+2021,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.029607
+2021,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003539
+2021,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.012066
+2021,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.01602
+2021,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.014093
+2021,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.011153
+2021,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.017743
+2021,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.020076
+2021,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013232
+2021,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.012674
+2021,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.016831
+2021,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.016831
+2021,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.020278
+2021,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.032547
+2021,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.036805
+2021,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016142
+2021,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.032446
+2021,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.058401
+2021,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.038579
+2021,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.050189
+2021,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.061139
+2021,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.051659
+2021,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.37667
+2021,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.01308
+2022,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.78936
+2022,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.59878
+2022,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.57034
+2022,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.57871
+2022,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,1.10666
+2022,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,0.76353
+2022,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.80723
+2022,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.75394
+2022,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.59128
+2022,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.6502
+2022,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.58421
+2022,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.17148
+2022,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.2494
+2022,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.26121
+2022,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.25116
+2022,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.48922
+2022,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.25909
+2022,HGV (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.21312
+2022,HGV (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.22924
+2022,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.12415
+2022,HGV (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.09617
+2022,HGV (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.09674
+2022,HGV (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.12145
+2022,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.26396
+2022,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.14556
+2022,HGV (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.1255
+2022,HGV (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.13346
+2022,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.07428
+2022,HGV (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.05989
+2022,HGV (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.06017
+2022,HGV (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.07384
+2022,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.56214
+2022,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.38655
+2022,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.18597
+2022,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.21345
+2022,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.14013
+2022,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.08032
+2022,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.08153
+2022,HGV (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.10614
+2022,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.58256
+2022,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.30854
+2022,HGV refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.25375
+2022,HGV refrigerated (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.27294
+2022,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.14359
+2022,HGV refrigerated (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.11121
+2022,HGV refrigerated (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.11186
+2022,HGV refrigerated (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.14208
+2022,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.31437
+2022,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.17337
+2022,HGV refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.14947
+2022,HGV refrigerated (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.15895
+2022,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.08594
+2022,HGV refrigerated (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.06929
+2022,HGV refrigerated (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.06962
+2022,HGV refrigerated (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.08642
+2022,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.66945
+2022,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.46033
+2022,HGV refrigerated (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.22142
+2022,HGV refrigerated (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.25415
+2022,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.1621
+2022,HGV refrigerated (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.09289
+2022,HGV refrigerated (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.09429
+2022,HGV refrigerated (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.12418
+2022,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,4.49363
+2022,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,2.30229
+2022,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,1.0189
+2022,Freight flights,"International, to/from non-UK",With RF,kg CO2e/tonne.km,1.0189
+2022,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,2.3765
+2022,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,1.21717
+2022,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.53867
+2022,Freight flights,"International, to/from non-UK",Without RF,kg CO2e/tonne.km,0.53867
+2022,Rail,Freight train,,kg CO2e/tonne.km,0.02782
+2022,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.00294
+2022,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.004461
+2022,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.005982
+2022,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.007604
+2022,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.009227
+2022,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.033763
+2022,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.004572
+2022,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.00578
+2022,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.010443
+2022,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.018961
+2022,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.029607
+2022,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.045626
+2022,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.009034
+2022,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.008517
+2022,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01095
+2022,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.015311
+2022,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.022509
+2022,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.010322
+2022,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.00943
+2022,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.014701
+2022,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.011548
+2022,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.009126
+2022,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.044105
+2022,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.010382
+2022,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.002535
+2022,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.003042
+2022,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.004157
+2022,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.00578
+2022,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.00801
+2022,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.029607
+2022,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003539
+2022,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.012066
+2022,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.01602
+2022,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.014093
+2022,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.011153
+2022,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.017743
+2022,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.020076
+2022,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013232
+2022,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.012674
+2022,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.016831
+2022,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.016831
+2022,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.020278
+2022,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.032547
+2022,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.036805
+2022,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016142
+2022,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.032446
+2022,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.058401
+2022,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.038579
+2022,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.050189
+2022,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.061139
+2022,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.051659
+2022,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.37667
+2022,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.01308
+2022,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.78936
+2022,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.59878
+2022,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.57034
+2022,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.57871
+2022,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,1.10666
+2022,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,0.76353
+2022,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.80723
+2022,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.75394
+2022,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.58421
+2022,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.17148
+2022,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.2494
+2022,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.26121
+2022,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.25116
+2022,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.48922
+2022,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.25909
+2022,HGV (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.21312
+2022,HGV (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.22924
+2022,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.12415
+2022,HGV (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.09617
+2022,HGV (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.09674
+2022,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.26396
+2022,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.14556
+2022,HGV (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.1255
+2022,HGV (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.13346
+2022,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.07428
+2022,HGV (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.05989
+2022,HGV (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.06017
+2022,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.56214
+2022,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.38655
+2022,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.18597
+2022,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.21345
+2022,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.14013
+2022,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.08032
+2022,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.08153
+2022,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.58256
+2022,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.30854
+2022,HGV refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.25375
+2022,HGV refrigerated (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.27294
+2022,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.14359
+2022,HGV refrigerated (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.11121
+2022,HGV refrigerated (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.11186
+2022,HGV refrigerated (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.14208
+2022,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.31437
+2022,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.17337
+2022,HGV refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.14947
+2022,HGV refrigerated (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.15895
+2022,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.08594
+2022,HGV refrigerated (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.06929
+2022,HGV refrigerated (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.06962
+2022,HGV refrigerated (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.08642
+2022,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.66945
+2022,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.46033
+2022,HGV refrigerated (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.22142
+2022,HGV refrigerated (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.25415
+2022,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.1621
+2022,HGV refrigerated (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.09289
+2022,HGV refrigerated (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.09429
+2022,HGV refrigerated (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.12418
+2022,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,4.49363
+2022,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,2.30229
+2022,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,1.0189
+2022,Freight flights,"International, to/from non-UK",With RF,kg CO2e/tonne.km,1.0189
+2022,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,2.3765
+2022,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,1.21717
+2022,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.53867
+2022,Freight flights,"International, to/from non-UK",Without RF,kg CO2e/tonne.km,0.53867
+2022,Rail,Freight train,,kg CO2e/tonne.km,0.02782
+2022,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.00294
+2022,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.004461
+2022,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.005982
+2022,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.007604
+2022,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.009227
+2022,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.033763
+2022,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.004572
+2022,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.00578
+2022,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.010443
+2022,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.018961
+2022,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.029607
+2022,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.045626
+2022,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.009034
+2022,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.008517
+2022,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01095
+2022,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.015311
+2022,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.022509
+2022,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.010322
+2022,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.00943
+2022,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.014701
+2022,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.011548
+2022,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.009126
+2022,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.044105
+2022,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.010382
+2022,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.002535
+2022,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.003042
+2022,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.004157
+2022,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.00578
+2022,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.00801
+2022,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.029607
+2022,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003539
+2022,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.012066
+2022,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.01602
+2022,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.014093
+2022,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.011153
+2022,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.017743
+2022,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.020076
+2022,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013232
+2022,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.012674
+2022,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.016831
+2022,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.016831
+2022,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.020278
+2022,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.032547
+2022,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.036805
+2022,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016142
+2022,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.032446
+2022,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.058401
+2022,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.038579
+2022,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.050189
+2022,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.061139
+2022,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.051659
+2022,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.37667
+2022,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.01308
+2023,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.790147366
+2023,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.567863583
+2023,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.567590529
+2023,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.570596267
+2023,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,1.058801251
+2023,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,0.732416179
+2023,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.776635699
+2023,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.71964116
+2023,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.575138966
+2023,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.631995766
+2023,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.575139741
+2023,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.182780007
+2023,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.265035434
+2023,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.261599307
+2023,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.263415434
+2023,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.445833988
+2023,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.250728181
+2023,HGV (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.201415773
+2023,HGV (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.214575933
+2023,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.11569542
+2023,HGV (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.092604086
+2023,HGV (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.093142979
+2023,HGV (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.118820923
+2023,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.24055704
+2023,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.140872937
+2023,HGV (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.11861844
+2023,HGV (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.125087366
+2023,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.06922271
+2023,HGV (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.057682643
+2023,HGV (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.057952643
+2023,HGV (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.072150462
+2023,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.512282034
+2023,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.354121085
+2023,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.153754532
+2023,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.178189095
+2023,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.115775454
+2023,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.074205059
+2023,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.075182844
+2023,HGV (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.096957467
+2023,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.530893988
+2023,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.298618181
+2023,HGV refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.239825773
+2023,HGV refrigerated (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.255495933
+2023,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.13383542
+2023,HGV refrigerated (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.107114086
+2023,HGV refrigerated (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.107742979
+2023,HGV refrigerated (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.139090923
+2023,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.28649704
+2023,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.167812937
+2023,HGV refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.14127844
+2023,HGV refrigerated (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.148987366
+2023,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.08011271
+2023,HGV refrigerated (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.066752643
+2023,HGV refrigerated (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.067062643
+2023,HGV refrigerated (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.084490462
+2023,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.610092034
+2023,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.421731085
+2023,HGV refrigerated (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.183034532
+2023,HGV refrigerated (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.212119095
+2023,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.133915454
+2023,HGV refrigerated (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.085835059
+2023,HGV refrigerated (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.086962844
+2023,HGV refrigerated (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.113497467
+2023,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,4.673396401
+2023,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,1.668155179
+2023,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,1.099031604
+2023,Freight flights,"International, to/from non-UK",With RF,kg CO2e/tonne.km,1.099031604
+2023,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,2.760146401
+2023,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.984685179
+2023,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.648741604
+2023,Freight flights,"International, to/from non-UK",Without RF,kg CO2e/tonne.km,0.648741604
+2023,Rail,Freight train,,kg CO2e/tonne.km,0.027788071
+2023,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.002935801
+2023,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.004454476
+2023,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.005973381
+2023,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.007592945
+2023,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.009213628
+2023,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.033714036
+2023,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.004565365
+2023,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.005771602
+2023,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.010427857
+2023,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.018933482
+2023,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.029564006
+2023,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.045559677
+2023,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.009020961
+2023,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.008504736
+2023,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.010934081
+2023,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.015288788
+2023,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.022476397
+2023,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.010306967
+2023,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.009416296
+2023,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.014679665
+2023,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.011531196
+2023,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.009112739
+2023,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.044041003
+2023,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.010366967
+2023,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.002531355
+2023,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.00303758
+2023,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.004150919
+2023,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.005771602
+2023,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.00799828
+2023,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.029564006
+2023,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003533805
+2023,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.01204854
+2023,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.015996791
+2023,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.01407255
+2023,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.011136749
+2023,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.017717244
+2023,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.020046821
+2023,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013212769
+2023,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.012655654
+2023,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.016806573
+2023,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.016806573
+2023,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.020248599
+2023,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.032499807
+2023,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.036751615
+2023,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.01611857
+2023,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.032398918
+2023,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.058316221
+2023,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.038522958
+2023,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.050116162
+2023,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.061050244
+2023,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.051583948
+2023,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.376123095
+2023,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.01306099
+2023,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.790147366
+2023,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.567863583
+2023,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.567590529
+2023,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.570596267
+2023,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,1.058801251
+2023,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,0.732416179
+2023,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.776635699
+2023,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.71964116
+2023,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.575139741
+2023,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.182780007
+2023,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.265035434
+2023,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.261599307
+2023,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.263415434
+2023,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.445833988
+2023,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.250728181
+2023,HGV (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.201415773
+2023,HGV (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.214575933
+2023,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.11569542
+2023,HGV (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.092604086
+2023,HGV (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.093142979
+2023,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.24055704
+2023,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.140872937
+2023,HGV (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.11861844
+2023,HGV (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.125087366
+2023,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.06922271
+2023,HGV (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.057682643
+2023,HGV (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.057952643
+2023,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.512282034
+2023,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.354121085
+2023,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.153754532
+2023,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.178189095
+2023,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.115775454
+2023,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.074205059
+2023,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.075182844
+2023,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.530893988
+2023,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.298618181
+2023,HGV refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.239825773
+2023,HGV refrigerated (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.255495933
+2023,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.13383542
+2023,HGV refrigerated (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.107114086
+2023,HGV refrigerated (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.107742979
+2023,HGV refrigerated (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.139090923
+2023,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.28649704
+2023,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.167812937
+2023,HGV refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.14127844
+2023,HGV refrigerated (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.148987366
+2023,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.08011271
+2023,HGV refrigerated (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.066752643
+2023,HGV refrigerated (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.067062643
+2023,HGV refrigerated (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.084490462
+2023,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.610092034
+2023,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.421731085
+2023,HGV refrigerated (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.183034532
+2023,HGV refrigerated (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.212119095
+2023,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.133915454
+2023,HGV refrigerated (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.085835059
+2023,HGV refrigerated (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.086962844
+2023,HGV refrigerated (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.113497467
+2023,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,4.673396401
+2023,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,1.668155179
+2023,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,1.099031604
+2023,Freight flights,"International, to/from non-UK",With RF,kg CO2e/tonne.km,1.099031604
+2023,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,2.760146401
+2023,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.984685179
+2023,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.648741604
+2023,Freight flights,"International, to/from non-UK",Without RF,kg CO2e/tonne.km,0.648741604
+2023,Rail,Freight train,,kg CO2e/tonne.km,0.027788071
+2023,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.002935801
+2023,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.004454476
+2023,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.005973381
+2023,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.007592945
+2023,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.009213628
+2023,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.033714036
+2023,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.004565365
+2023,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.005771602
+2023,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.010427857
+2023,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.018933482
+2023,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.029564006
+2023,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.045559677
+2023,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.009020961
+2023,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.008504736
+2023,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.010934081
+2023,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.015288788
+2023,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.022476397
+2023,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.010306967
+2023,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.009416296
+2023,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.014679665
+2023,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.011531196
+2023,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.009112739
+2023,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.044041003
+2023,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.010366967
+2023,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.002531355
+2023,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.00303758
+2023,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.004150919
+2023,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.005771602
+2023,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.00799828
+2023,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.029564006
+2023,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003533805
+2023,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.01204854
+2023,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.015996791
+2023,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.01407255
+2023,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.011136749
+2023,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.017717244
+2023,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.020046821
+2023,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013212769
+2023,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.012655654
+2023,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.016806573
+2023,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.016806573
+2023,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.020248599
+2023,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.032499807
+2023,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.036751615
+2023,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.01611857
+2023,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.032398918
+2023,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.058316221
+2023,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.038522958
+2023,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.050116162
+2023,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.061050244
+2023,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.051583948
+2023,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.376123095
+2023,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.01306099
+2024,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.85353
+2024,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.61153
+2024,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.61363
+2024,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.61643
+2024,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,1.17394
+2024,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,0.82739
+2024,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.86252
+2024,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.81972
+2024,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.62197
+2024,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.68376
+2024,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.62264
+2024,Vans,Class III (1.74 to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,kg CO2e/tonne.km,0.37952
+2024,Vans,Average (up to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,kg CO2e/tonne.km,0.37952
+2024,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.15753
+2024,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.27927
+2024,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.23666
+2024,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.25438
+2024,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.4399
+2024,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.26206
+2024,HGV (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.20077
+2024,HGV (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.21412
+2024,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.11303
+2024,HGV (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.09294
+2024,HGV (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.09346
+2024,HGV (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.11926
+2024,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.23736
+2024,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.14724
+2024,HGV (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.11824
+2024,HGV (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.12482
+2024,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.06763
+2024,HGV (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.05789
+2024,HGV (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.05814
+2024,HGV (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.0724
+2024,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.50546
+2024,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.38023
+2024,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.15398
+2024,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.17853
+2024,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.11311
+2024,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.07447
+2024,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.07547
+2024,HGV (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.09752
+2024,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.52382
+2024,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.31213
+2024,HGV refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.23906
+2024,HGV refrigerated (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.25495
+2024,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.13078
+2024,HGV refrigerated (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.10753
+2024,HGV refrigerated (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.10813
+2024,HGV refrigerated (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.13964
+2024,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.28268
+2024,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.17541
+2024,HGV refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.14083
+2024,HGV refrigerated (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.14867
+2024,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.07827
+2024,HGV refrigerated (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.06701
+2024,HGV refrigerated (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.0673
+2024,HGV refrigerated (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.08481
+2024,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.60195
+2024,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.45287
+2024,HGV refrigerated (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.1833
+2024,HGV refrigerated (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.21254
+2024,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.13086
+2024,HGV refrigerated (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.08617
+2024,HGV refrigerated (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.08732
+2024,HGV refrigerated (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.11417
+2024,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,4.6734
+2024,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,1.66816
+2024,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,1.09904
+2024,Freight flights,"International, to/from non-UK",With RF,kg CO2e/tonne.km,1.09904
+2024,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,2.76015
+2024,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.98469
+2024,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.64875
+2024,Freight flights,"International, to/from non-UK",Without RF,kg CO2e/tonne.km,0.64875
+2024,Rail,Freight train,,kg CO2e/tonne.km,0.02779
+2024,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.00293
+2024,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.00445
+2024,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.00597
+2024,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.00759
+2024,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.00921
+2024,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.03371
+2024,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.00456
+2024,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.00577
+2024,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.01042
+2024,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01894
+2024,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.02956
+2024,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.04556
+2024,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.00902
+2024,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.0085
+2024,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01093
+2024,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.01529
+2024,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.02248
+2024,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.0103
+2024,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.00941
+2024,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.01468
+2024,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.01153
+2024,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.00911
+2024,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.04404
+2024,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.01036
+2024,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.00253
+2024,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.00304
+2024,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.00415
+2024,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.00577
+2024,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.008
+2024,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.02956
+2024,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.00353
+2024,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.01204
+2024,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.016
+2024,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.01407
+2024,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.01113
+2024,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.01772
+2024,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.02005
+2024,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.01321
+2024,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.01265
+2024,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.01681
+2024,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.01681
+2024,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.02025
+2024,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.0325
+2024,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.03675
+2024,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.01612
+2024,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.0324
+2024,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.05832
+2024,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.03852
+2024,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.05012
+2024,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.06105
+2024,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.05159
+2024,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.37612
+2024,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.01306
+2024,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.85353
+2024,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.61153
+2024,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.61363
+2024,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.61643
+2024,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,1.17394
+2024,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,0.82739
+2024,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.86252
+2024,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.81972
+2024,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.62197
+2024,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.68376
+2024,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.62264
+2024,Vans,Class III (1.74 to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,kg CO2e/tonne.km,0.37952
+2024,Vans,Average (up to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,kg CO2e/tonne.km,0.37952
+2024,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.15753
+2024,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.27927
+2024,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.23666
+2024,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.25438
+2024,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.4399
+2024,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.26206
+2024,HGV (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.20077
+2024,HGV (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.21412
+2024,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.11303
+2024,HGV (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.09294
+2024,HGV (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.09346
+2024,HGV (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.11926
+2024,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.23736
+2024,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.14724
+2024,HGV (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.11824
+2024,HGV (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.12482
+2024,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.06763
+2024,HGV (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.05789
+2024,HGV (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.05814
+2024,HGV (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.0724
+2024,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.50546
+2024,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.38023
+2024,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.15398
+2024,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.17853
+2024,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.11311
+2024,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.07447
+2024,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.07547
+2024,HGV (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.09752
+2024,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.52382
+2024,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.31213
+2024,HGV refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.23906
+2024,HGV refrigerated (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.25495
+2024,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.13078
+2024,HGV refrigerated (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.10753
+2024,HGV refrigerated (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.10813
+2024,HGV refrigerated (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.13964
+2024,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.28268
+2024,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.17541
+2024,HGV refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.14083
+2024,HGV refrigerated (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.14867
+2024,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.07827
+2024,HGV refrigerated (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.06701
+2024,HGV refrigerated (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.0673
+2024,HGV refrigerated (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.08481
+2024,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.60195
+2024,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.45287
+2024,HGV refrigerated (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.1833
+2024,HGV refrigerated (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.21254
+2024,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.13086
+2024,HGV refrigerated (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.08617
+2024,HGV refrigerated (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.08732
+2024,HGV refrigerated (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.11417
+2024,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,4.6734
+2024,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,1.66816
+2024,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,1.09904
+2024,Freight flights,"International, to/from non-UK",With RF,kg CO2e/tonne.km,1.09904
+2024,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,2.76015
+2024,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.98469
+2024,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.64875
+2024,Freight flights,"International, to/from non-UK",Without RF,kg CO2e/tonne.km,0.64875
+2024,Rail,Freight train,,kg CO2e/tonne.km,0.02779
+2024,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.00293
+2024,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.00445
+2024,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.00597
+2024,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.00759
+2024,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.00921
+2024,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.03371
+2024,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.00456
+2024,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.00577
+2024,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.01042
+2024,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01894
+2024,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.02956
+2024,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.04556
+2024,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.00902
+2024,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.0085
+2024,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01093
+2024,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.01529
+2024,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.02248
+2024,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.0103
+2024,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.00941
+2024,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.01468
+2024,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.01153
+2024,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.00911
+2024,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.04404
+2024,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.01036
+2024,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.00253
+2024,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.00304
+2024,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.00415
+2024,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.00577
+2024,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.008
+2024,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.02956
+2024,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.00353
+2024,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.01204
+2024,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.016
+2024,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.01407
+2024,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.01113
+2024,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.01772
+2024,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.02005
+2024,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.01321
+2024,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.01265
+2024,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.01681
+2024,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.01681
+2024,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.02025
+2024,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.0325
+2024,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.03675
+2024,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.01612
+2024,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.0324
+2024,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.05832
+2024,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.03852
+2024,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.05012
+2024,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.06105
+2024,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.05159
+2024,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.37612
+2024,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.01306
+2025,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.87423
+2025,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.62562
+2025,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.62849
+2025,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.6313
+2025,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,1.42906
+2025,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,0.81534
+2025,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.83593
+2025,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.85537
+2025,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.62419
+2025,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.68621
+2025,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.63823
+2025,Vans,Class III (1.74 to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,kg CO2e/tonne.km,0.36985
+2025,Vans,Average (up to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,kg CO2e/tonne.km,0.36985
+2025,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.12474
+2025,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.24915
+2025,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.20519
+2025,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.21992
+2025,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.45916
+2025,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.26427
+2025,HGV (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.21116
+2025,HGV (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.2258
+2025,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.12823
+2025,HGV (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.09612
+2025,HGV (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.09675
+2025,HGV (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.12226
+2025,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.24776
+2025,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.14849
+2025,HGV (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.12436
+2025,HGV (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.13155
+2025,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.07674
+2025,HGV (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.05988
+2025,HGV (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.06021
+2025,HGV (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.07431
+2025,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.52761
+2025,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.36362
+2025,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.17146
+2025,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.19748
+2025,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.12633
+2025,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.07703
+2025,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.078
+2025,HGV (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.10163
+2025,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.5468
+2025,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.31477
+2025,HGV refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.25145
+2025,HGV refrigerated (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.26888
+2025,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.14833
+2025,HGV refrigerated (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.11115
+2025,HGV refrigerated (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.11189
+2025,HGV refrigerated (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.14309
+2025,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.29508
+2025,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.17689
+2025,HGV refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.14814
+2025,HGV refrigerated (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.15669
+2025,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.0888
+2025,HGV refrigerated (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.06928
+2025,HGV refrigerated (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.06966
+2025,HGV refrigerated (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.08701
+2025,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.62837
+2025,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.43306
+2025,HGV refrigerated (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.20416
+2025,HGV refrigerated (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.23514
+2025,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.14611
+2025,HGV refrigerated (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.08908
+2025,HGV refrigerated (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.0902
+2025,HGV refrigerated (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.11894
+2025,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,4.60397
+2025,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,1.27835
+2025,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,0.89939
+2025,Freight flights,"International, to/from non-UK",With RF,kg CO2e/tonne.km,0.89939
+2025,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,2.71931
+2025,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.75539
+2025,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.5313
+2025,Freight flights,"International, to/from non-UK",Without RF,kg CO2e/tonne.km,0.5313
+2025,Rail,Freight train,,kg CO2e/tonne.km,0.02779
+2025,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.00294
+2025,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.00445
+2025,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.00597
+2025,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.00759
+2025,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.00921
+2025,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.03371
+2025,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.00457
+2025,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.00577
+2025,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.01043
+2025,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01893
+2025,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.02956
+2025,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.04556
+2025,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.00902
+2025,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.0085
+2025,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01093
+2025,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.01529
+2025,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.02248
+2025,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.01031
+2025,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.00942
+2025,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.01468
+2025,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.01153
+2025,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.00911
+2025,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.04404
+2025,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.01037
+2025,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.00253
+2025,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.00304
+2025,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.00415
+2025,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.00577
+2025,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.008
+2025,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.02956
+2025,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.00353
+2025,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.01205
+2025,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.016
+2025,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.01407
+2025,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.01114
+2025,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.01772
+2025,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.02005
+2025,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.01321
+2025,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.01266
+2025,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.01681
+2025,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.01681
+2025,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.02025
+2025,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.0325
+2025,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.03675
+2025,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.01612
+2025,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.0324
+2025,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.05832
+2025,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.03852
+2025,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.05012
+2025,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.06105
+2025,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.05158
+2025,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.37612
+2025,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.01306
+2025,Vans,Class I (up to 1.305 tonnes),Diesel,kg CO2e/tonne.km,0.87423
+2025,Vans,Class II (1.305 to 1.74 tonnes),Diesel,kg CO2e/tonne.km,0.62562
+2025,Vans,Class III (1.74 to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.62849
+2025,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.6313
+2025,Vans,Class I (up to 1.305 tonnes),Petrol,kg CO2e/tonne.km,1.42906
+2025,Vans,Class II (1.305 to 1.74 tonnes),Petrol,kg CO2e/tonne.km,0.81534
+2025,Vans,Class III (1.74 to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.83593
+2025,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.85537
+2025,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.62419
+2025,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.68621
+2025,Vans,Average (up to 3.5 tonnes),Unknown,kg CO2e/tonne.km,0.63823
+2025,Vans,Class III (1.74 to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,kg CO2e/tonne.km,0.36985
+2025,Vans,Average (up to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,kg CO2e/tonne.km,0.36985
+2025,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.12474
+2025,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.24915
+2025,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.20519
+2025,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0.21992
+2025,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.45916
+2025,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.26427
+2025,HGV (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.21116
+2025,HGV (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.2258
+2025,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.12823
+2025,HGV (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.09612
+2025,HGV (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.09675
+2025,HGV (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.12226
+2025,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.24776
+2025,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.14849
+2025,HGV (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.12436
+2025,HGV (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.13155
+2025,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.07674
+2025,HGV (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.05988
+2025,HGV (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.06021
+2025,HGV (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.07431
+2025,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.52761
+2025,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.36362
+2025,HGV (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.17146
+2025,HGV (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.19748
+2025,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.12633
+2025,HGV (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.07703
+2025,HGV (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.078
+2025,HGV (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.10163
+2025,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,kg CO2e/tonne.km,0.5468
+2025,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,kg CO2e/tonne.km,0.31477
+2025,HGV refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,kg CO2e/tonne.km,0.25145
+2025,HGV refrigerated (all diesel),All rigids,50% Laden,kg CO2e/tonne.km,0.26888
+2025,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,kg CO2e/tonne.km,0.14833
+2025,HGV refrigerated (all diesel),Articulated (>33t),50% Laden,kg CO2e/tonne.km,0.11115
+2025,HGV refrigerated (all diesel),All artics,50% Laden,kg CO2e/tonne.km,0.11189
+2025,HGV refrigerated (all diesel),All HGVs,50% Laden,kg CO2e/tonne.km,0.14309
+2025,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,kg CO2e/tonne.km,0.29508
+2025,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,kg CO2e/tonne.km,0.17689
+2025,HGV refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,kg CO2e/tonne.km,0.14814
+2025,HGV refrigerated (all diesel),All rigids,100% Laden,kg CO2e/tonne.km,0.15669
+2025,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,kg CO2e/tonne.km,0.0888
+2025,HGV refrigerated (all diesel),Articulated (>33t),100% Laden,kg CO2e/tonne.km,0.06928
+2025,HGV refrigerated (all diesel),All artics,100% Laden,kg CO2e/tonne.km,0.06966
+2025,HGV refrigerated (all diesel),All HGVs,100% Laden,kg CO2e/tonne.km,0.08701
+2025,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,kg CO2e/tonne.km,0.62837
+2025,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,kg CO2e/tonne.km,0.43306
+2025,HGV refrigerated (all diesel),Rigid (>17 tonnes),Average laden,kg CO2e/tonne.km,0.20416
+2025,HGV refrigerated (all diesel),All rigids,Average laden,kg CO2e/tonne.km,0.23514
+2025,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,kg CO2e/tonne.km,0.14611
+2025,HGV refrigerated (all diesel),Articulated (>33t),Average laden,kg CO2e/tonne.km,0.08908
+2025,HGV refrigerated (all diesel),All artics,Average laden,kg CO2e/tonne.km,0.0902
+2025,HGV refrigerated (all diesel),All HGVs,Average laden,kg CO2e/tonne.km,0.11894
+2025,Freight flights,"Domestic, to/from UK",With RF,kg CO2e/tonne.km,4.60397
+2025,Freight flights,"Short-haul, to/from UK",With RF,kg CO2e/tonne.km,1.27835
+2025,Freight flights,"Long-haul, to/from UK",With RF,kg CO2e/tonne.km,0.89939
+2025,Freight flights,"International, to/from non-UK",With RF,kg CO2e/tonne.km,0.89939
+2025,Freight flights,"Domestic, to/from UK",Without RF,kg CO2e/tonne.km,2.71931
+2025,Freight flights,"Short-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.75539
+2025,Freight flights,"Long-haul, to/from UK",Without RF,kg CO2e/tonne.km,0.5313
+2025,Freight flights,"International, to/from non-UK",Without RF,kg CO2e/tonne.km,0.5313
+2025,Rail,Freight train,,kg CO2e/tonne.km,0.02779
+2025,Sea tanker,Crude tanker,"200,000+ dwt",kg CO2e/tonne.km,0.00294
+2025,Sea tanker,Crude tanker,"120,000–199,999 dwt",kg CO2e/tonne.km,0.00445
+2025,Sea tanker,Crude tanker,"80,000–119,999 dwt",kg CO2e/tonne.km,0.00597
+2025,Sea tanker,Crude tanker,"60,000–79,999 dwt",kg CO2e/tonne.km,0.00759
+2025,Sea tanker,Crude tanker,"10,000–59,999 dwt",kg CO2e/tonne.km,0.00921
+2025,Sea tanker,Crude tanker,0–9999 dwt,kg CO2e/tonne.km,0.03371
+2025,Sea tanker,Crude tanker,Average,kg CO2e/tonne.km,0.00457
+2025,Sea tanker,Products tanker ,"60,000+ dwt",kg CO2e/tonne.km,0.00577
+2025,Sea tanker,Products tanker ,"20,000–59,999 dwt",kg CO2e/tonne.km,0.01043
+2025,Sea tanker,Products tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01893
+2025,Sea tanker,Products tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.02956
+2025,Sea tanker,Products tanker ,0–4999 dwt,kg CO2e/tonne.km,0.04556
+2025,Sea tanker,Products tanker ,Average,kg CO2e/tonne.km,0.00902
+2025,Sea tanker,Chemical tanker ,"20,000+ dwt",kg CO2e/tonne.km,0.0085
+2025,Sea tanker,Chemical tanker ,"10,000–19,999 dwt",kg CO2e/tonne.km,0.01093
+2025,Sea tanker,Chemical tanker ,5000–9999 dwt,kg CO2e/tonne.km,0.01529
+2025,Sea tanker,Chemical tanker ,0–4999 dwt,kg CO2e/tonne.km,0.02248
+2025,Sea tanker,Chemical tanker ,Average,kg CO2e/tonne.km,0.01031
+2025,Sea tanker,LNG tanker,"200,000+ m3",kg CO2e/tonne.km,0.00942
+2025,Sea tanker,LNG tanker,"0–199,999 m3",kg CO2e/tonne.km,0.01468
+2025,Sea tanker,LNG tanker,Average,kg CO2e/tonne.km,0.01153
+2025,Sea tanker,LPG Tanker,"50,000+ m3",kg CO2e/tonne.km,0.00911
+2025,Sea tanker,LPG Tanker,"0–49,999 m3",kg CO2e/tonne.km,0.04404
+2025,Sea tanker,LPG Tanker,Average,kg CO2e/tonne.km,0.01037
+2025,Cargo ship,Bulk carrier,"200,000+ dwt",kg CO2e/tonne.km,0.00253
+2025,Cargo ship,Bulk carrier,"100,000–199,999 dwt",kg CO2e/tonne.km,0.00304
+2025,Cargo ship,Bulk carrier,"60,000–99,999 dwt",kg CO2e/tonne.km,0.00415
+2025,Cargo ship,Bulk carrier,"35,000–59,999 dwt",kg CO2e/tonne.km,0.00577
+2025,Cargo ship,Bulk carrier,"10,000–34,999 dwt",kg CO2e/tonne.km,0.008
+2025,Cargo ship,Bulk carrier,0–9999 dwt,kg CO2e/tonne.km,0.02956
+2025,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.00353
+2025,Cargo ship,General cargo,"10,000+ dwt",kg CO2e/tonne.km,0.01205
+2025,Cargo ship,General cargo,5000–9999 dwt,kg CO2e/tonne.km,0.016
+2025,Cargo ship,General cargo,0–4999 dwt,kg CO2e/tonne.km,0.01407
+2025,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",kg CO2e/tonne.km,0.01114
+2025,Cargo ship,General cargo,5000–9999 dwt 100+ TEU,kg CO2e/tonne.km,0.01772
+2025,Cargo ship,General cargo,0–4999 dwt 100+ TEU,kg CO2e/tonne.km,0.02005
+2025,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.01321
+2025,Cargo ship,Container ship,8000+ TEU,kg CO2e/tonne.km,0.01266
+2025,Cargo ship,Container ship,5000–7999 TEU,kg CO2e/tonne.km,0.01681
+2025,Cargo ship,Container ship,3000–4999 TEU,kg CO2e/tonne.km,0.01681
+2025,Cargo ship,Container ship,2000–2999 TEU,kg CO2e/tonne.km,0.02025
+2025,Cargo ship,Container ship,1000–1999 TEU,kg CO2e/tonne.km,0.0325
+2025,Cargo ship,Container ship,0–999 TEU,kg CO2e/tonne.km,0.03675
+2025,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.01612
+2025,Cargo ship,Vehicle transport,4000+ CEU,kg CO2e/tonne.km,0.0324
+2025,Cargo ship,Vehicle transport,0–3999 CEU,kg CO2e/tonne.km,0.05832
+2025,Cargo ship,Vehicle transport,Average,kg CO2e/tonne.km,0.03852
+2025,Cargo ship,RoRo-Ferry,2000+ LM,kg CO2e/tonne.km,0.05012
+2025,Cargo ship,RoRo-Ferry,0–1999 LM,kg CO2e/tonne.km,0.06105
+2025,Cargo ship,RoRo-Ferry,Average,kg CO2e/tonne.km,0.05158
+2025,Cargo ship,Large RoPax ferry,Average,kg CO2e/tonne.km,0.37612
+2025,Cargo ship,Refrigerated cargo, All dwt,kg CO2e/tonne.km,0.01306
+2000,All HGVs,All HGVs,50% Laden,kg CO2e/tonne.km,0.1453
+2000,All HGVs,All HGVs,100% Laden,kg CO2e/tonne.km,0.087
+2000,All HGVs,All HGVs,Average laden,kg CO2e/tonne.km,0.1235
+2001,All HGVs,All HGVs,50% Laden,kg CO2e/tonne.km,0.145
+2001,All HGVs,All HGVs,100% Laden,kg CO2e/tonne.km,0.0868
+2001,All HGVs,All HGVs,Average laden,kg CO2e/tonne.km,0.1232
+2002,All HGVs,All HGVs,50% Laden,kg CO2e/tonne.km,0.1446
+2002,All HGVs,All HGVs,100% Laden,kg CO2e/tonne.km,0.0865
+2002,All HGVs,All HGVs,Average laden,kg CO2e/tonne.km,0.1228
+2003,All HGVs,All HGVs,50% Laden,kg CO2e/tonne.km,0.1443
+2003,All HGVs,All HGVs,100% Laden,kg CO2e/tonne.km,0.0863
+2003,All HGVs,All HGVs,Average laden,kg CO2e/tonne.km,0.1225
+2004,All HGVs,All HGVs,50% Laden,kg CO2e/tonne.km,0.144
+2004,All HGVs,All HGVs,100% Laden,kg CO2e/tonne.km,0.0861
+2004,All HGVs,All HGVs,Average laden,kg CO2e/tonne.km,0.1223
+2005,All HGVs,All HGVs,50% Laden,kg CO2e/tonne.km,0.1438
+2005,All HGVs,All HGVs,100% Laden,kg CO2e/tonne.km,0.0859
+2005,All HGVs,All HGVs,Average laden,kg CO2e/tonne.km,0.122
+2006,All HGVs,All HGVs,50% Laden,kg CO2e/tonne.km,0.1435
+2006,All HGVs,All HGVs,100% Laden,kg CO2e/tonne.km,0.0857
+2006,All HGVs,All HGVs,Average laden,kg CO2e/tonne.km,0.1218
+2007,All HGVs,All HGVs,50% Laden,kg CO2e/tonne.km,0.1432
+2007,All HGVs,All HGVs,100% Laden,kg CO2e/tonne.km,0.0855
+2007,All HGVs,All HGVs,Average laden,kg CO2e/tonne.km,0.1215
+2008,All HGVs,All HGVs,50% Laden,kg CO2e/tonne.km,0.143
+2008,All HGVs,All HGVs,100% Laden,kg CO2e/tonne.km,0.0853
+2008,All HGVs,All HGVs,Average laden,kg CO2e/tonne.km,0.1213
+2009,All HGVs,All HGVs,50% Laden,kg CO2e/tonne.km,0.14
+2009,All HGVs,All HGVs,100% Laden,kg CO2e/tonne.km,0.0835
+2009,All HGVs,All HGVs,Average laden,kg CO2e/tonne.km,0.119
+2010,All HGVs,All HGVs,50% Laden,kg CO2e/tonne.km,0.139
+2010,All HGVs,All HGVs,100% Laden,kg CO2e/tonne.km,0.0829
+2010,All HGVs,All HGVs,Average laden,kg CO2e/tonne.km,0.118
+2011,All HGVs,All HGVs,50% Laden,kg CO2e/tonne.km,0.138
+2011,All HGVs,All HGVs,100% Laden,kg CO2e/tonne.km,0.0823
+2011,All HGVs,All HGVs,Average laden,kg CO2e/tonne.km,0.117
+2012,All HGVs,All HGVs,50% Laden,kg CO2e/tonne.km,0.137
+2012,All HGVs,All HGVs,100% Laden,kg CO2e/tonne.km,0.0817
+2012,All HGVs,All HGVs,Average laden,kg CO2e/tonne.km,0.116
+2013,All HGVs,All HGVs,50% Laden,kg CO2e/tonne.km,0.1366
+2013,All HGVs,All HGVs,100% Laden,kg CO2e/tonne.km,0.0811
+2013,All HGVs,All HGVs,Average laden,kg CO2e/tonne.km,0.118
+2000,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.650218
+2000,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.824213
+2000,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.511869
+2000,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.559809
+2000,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0
+2001,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.646756
+2001,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.819666
+2001,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.51462
+2001,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.562948
+2001,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0
+2002,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.650218
+2002,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.824213
+2002,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.511869
+2002,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.559809
+2002,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0
+2003,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.650218
+2003,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.824213
+2003,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.511869
+2003,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.559809
+2003,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0
+2004,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.650218
+2004,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.824213
+2004,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.511869
+2004,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.559809
+2004,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0
+2005,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.650218
+2005,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.824213
+2005,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.511869
+2005,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.559809
+2005,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0
+2006,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.650218
+2006,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.824213
+2006,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.511869
+2006,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.559809
+2006,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0
+2007,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.650218
+2007,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.824213
+2007,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.511869
+2007,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.559809
+2007,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0
+2008,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.650218
+2008,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.824213
+2008,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.511869
+2008,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.559809
+2008,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0
+2009,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.650218
+2009,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.824213
+2009,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.511869
+2009,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.559809
+2009,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0
+2010,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.650218
+2010,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.824213
+2010,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.511869
+2010,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.559809
+2010,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0
+2011,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.650218
+2011,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.824213
+2011,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.511869
+2011,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.559809
+2011,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0
+2012,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.650218
+2012,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.824213
+2012,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.511869
+2012,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.559809
+2012,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0
+2013,Vans,Average (up to 3.5 tonnes),Diesel,kg CO2e/tonne.km,0.650218
+2013,Vans,Average (up to 3.5 tonnes),Petrol,kg CO2e/tonne.km,0.824213
+2013,Vans,Average (up to 3.5 tonnes),CNG,kg CO2e/tonne.km,0.511869
+2013,Vans,Average (up to 3.5 tonnes),LPG,kg CO2e/tonne.km,0.559809
+2013,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,kg CO2e/tonne.km,0
+2000,Cargo ship,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2000,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2000,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013154
+2000,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016048
+2001,Cargo ship,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2001,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2001,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013154
+2001,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016048
+2000,Cargo ship,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2000,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2000,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013154
+2000,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016048
+2001,Cargo ship,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2001,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2001,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013154
+2001,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016048
+2002,Cargo ship,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2002,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2002,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013154
+2002,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016048
+2003,Cargo ship,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2003,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2003,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013154
+2003,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016048
+2004,Cargo ship,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2004,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2004,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013154
+2004,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016048
+2005,Cargo ship,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2005,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2005,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013154
+2005,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016048
+2006,Cargo ship,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2006,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2006,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013154
+2006,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016048
+2007,Cargo ship,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2007,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2007,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013154
+2007,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016048
+2008,Cargo ship,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2008,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2008,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013154
+2008,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016048
+2009,Cargo ship,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2009,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2009,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013154
+2009,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016048
+2010,Cargo ship,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2010,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2010,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013154
+2010,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016048
+2011,Cargo ship,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2011,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2011,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013154
+2011,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016048
+2012,Cargo ship,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2012,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2012,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013154
+2012,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016048
+2013,Cargo ship,Crude tanker,Average,kg CO2e/tonne.km,0.004546
+2013,Cargo ship,Bulk carrier,Average,kg CO2e/tonne.km,0.003518
+2013,Cargo ship,General cargo,Average,kg CO2e/tonne.km,0.013154
+2013,Cargo ship,Container ship,Average,kg CO2e/tonne.km,0.016048

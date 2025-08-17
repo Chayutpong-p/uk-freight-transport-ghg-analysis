@@ -1,0 +1,1471 @@
+Year,Scenario,Group,Metric,Value,% Reduction vs S0 (group)
+2002,S0 (baseline),HGV,Emissions (ktCO2e),18268.0,0.0
+2003,S0 (baseline),HGV,Emissions (ktCO2e),18400.0,0.0
+2004,S0 (baseline),HGV,Emissions (ktCO2e),18528.0,0.0
+2005,S0 (baseline),HGV,Emissions (ktCO2e),18420.0,0.0
+2006,S0 (baseline),HGV,Emissions (ktCO2e),18369.0,0.0
+2007,S0 (baseline),HGV,Emissions (ktCO2e),18230.0,0.0
+2008,S0 (baseline),HGV,Emissions (ktCO2e),17850.0,0.0
+2009,S0 (baseline),HGV,Emissions (ktCO2e),15875.0,0.0
+2010,S0 (baseline),HGV,Emissions (ktCO2e),16530.0,0.0
+2011,S0 (baseline),HGV,Emissions (ktCO2e),16070.0,0.0
+2012,S0 (baseline),HGV,Emissions (ktCO2e),15574.0,0.0
+2013,S0 (baseline),HGV,Emissions (ktCO2e),15687.3,0.0
+2014,S0 (baseline),HGV,Emissions (ktCO2e),16755.0,0.0
+2015,S0 (baseline),HGV,Emissions (ktCO2e),15888.0,0.0
+2016,S0 (baseline),HGV,Emissions (ktCO2e),17380.0,0.0
+2017,S0 (baseline),HGV,Emissions (ktCO2e),16329.0,0.0
+2018,S0 (baseline),HGV,Emissions (ktCO2e),17772.0,0.0
+2019,S0 (baseline),HGV,Emissions (ktCO2e),17296.0,0.0
+2020,S0 (baseline),HGV,Emissions (ktCO2e),15920.0,0.0
+2021,S0 (baseline),HGV,Emissions (ktCO2e),17296.0,0.0
+2022,S0 (baseline),HGV,Emissions (ktCO2e),17437.0,0.0
+2023,S0 (baseline),HGV,Emissions (ktCO2e),16180.0,0.0
+2024,S0 (baseline),HGV,Emissions (ktCO2e),17005.197346443827,0.0
+2025,S0 (baseline),HGV,Emissions (ktCO2e),17707.806163622015,0.0
+2026,S0 (baseline),HGV,Emissions (ktCO2e),18497.59560688482,0.0
+2027,S0 (baseline),HGV,Emissions (ktCO2e),19380.515073182334,0.0
+2028,S0 (baseline),HGV,Emissions (ktCO2e),20362.513959464653,0.0
+2029,S0 (baseline),HGV,Emissions (ktCO2e),21449.54166268187,0.0
+2030,S0 (baseline),HGV,Emissions (ktCO2e),22647.547579784074,0.0
+2031,S0 (baseline),HGV,Emissions (ktCO2e),23962.48110772136,0.0
+2032,S0 (baseline),HGV,Emissions (ktCO2e),25400.291643443827,0.0
+2033,S0 (baseline),HGV,Emissions (ktCO2e),26966.92858390157,0.0
+2034,S0 (baseline),HGV,Emissions (ktCO2e),28668.341326044672,0.0
+2035,S0 (baseline),HGV,Emissions (ktCO2e),30510.479266823233,0.0
+2036,S0 (baseline),HGV,Emissions (ktCO2e),32499.29180318734,0.0
+2037,S0 (baseline),HGV,Emissions (ktCO2e),34640.728332087114,0.0
+2038,S0 (baseline),HGV,Emissions (ktCO2e),36940.7382504726,0.0
+2039,S0 (baseline),HGV,Emissions (ktCO2e),39405.270955293934,0.0
+2040,S0 (baseline),HGV,Emissions (ktCO2e),42040.2758435012,0.0
+2041,S0 (baseline),HGV,Emissions (ktCO2e),44851.70231204447,0.0
+2042,S0 (baseline),HGV,Emissions (ktCO2e),47845.49975787387,0.0
+2043,S0 (baseline),HGV,Emissions (ktCO2e),51027.61757793946,0.0
+2044,S0 (baseline),HGV,Emissions (ktCO2e),54404.005169191376,0.0
+2045,S0 (baseline),HGV,Emissions (ktCO2e),57980.611928579674,0.0
+2046,S0 (baseline),HGV,Emissions (ktCO2e),61763.38725305445,0.0
+2047,S0 (baseline),HGV,Emissions (ktCO2e),65758.28053956582,0.0
+2048,S0 (baseline),HGV,Emissions (ktCO2e),69971.24118506386,0.0
+2049,S0 (baseline),HGV,Emissions (ktCO2e),74408.21858649867,0.0
+2050,S0 (baseline),HGV,Emissions (ktCO2e),79075.16214082034,0.0
+2002,S1 (Net-zero policy),HGV,Emissions (ktCO2e),18268.0,0.0
+2003,S1 (Net-zero policy),HGV,Emissions (ktCO2e),18400.0,0.0
+2004,S1 (Net-zero policy),HGV,Emissions (ktCO2e),18528.0,0.0
+2005,S1 (Net-zero policy),HGV,Emissions (ktCO2e),18420.0,0.0
+2006,S1 (Net-zero policy),HGV,Emissions (ktCO2e),18369.0,0.0
+2007,S1 (Net-zero policy),HGV,Emissions (ktCO2e),18230.0,0.0
+2008,S1 (Net-zero policy),HGV,Emissions (ktCO2e),17850.0,0.0
+2009,S1 (Net-zero policy),HGV,Emissions (ktCO2e),15875.0,0.0
+2010,S1 (Net-zero policy),HGV,Emissions (ktCO2e),16530.0,0.0
+2011,S1 (Net-zero policy),HGV,Emissions (ktCO2e),16070.0,0.0
+2012,S1 (Net-zero policy),HGV,Emissions (ktCO2e),15574.0,0.0
+2013,S1 (Net-zero policy),HGV,Emissions (ktCO2e),15687.3,0.0
+2014,S1 (Net-zero policy),HGV,Emissions (ktCO2e),16755.0,0.0
+2015,S1 (Net-zero policy),HGV,Emissions (ktCO2e),15888.0,0.0
+2016,S1 (Net-zero policy),HGV,Emissions (ktCO2e),17380.0,0.0
+2017,S1 (Net-zero policy),HGV,Emissions (ktCO2e),16329.0,0.0
+2018,S1 (Net-zero policy),HGV,Emissions (ktCO2e),17772.0,0.0
+2019,S1 (Net-zero policy),HGV,Emissions (ktCO2e),17296.0,0.0
+2020,S1 (Net-zero policy),HGV,Emissions (ktCO2e),15920.0,0.0
+2021,S1 (Net-zero policy),HGV,Emissions (ktCO2e),17296.0,0.0
+2022,S1 (Net-zero policy),HGV,Emissions (ktCO2e),17437.0,0.0
+2023,S1 (Net-zero policy),HGV,Emissions (ktCO2e),16180.0,0.0
+2024,S1 (Net-zero policy),HGV,Emissions (ktCO2e),17005.197346443827,0.0
+2025,S1 (Net-zero policy),HGV,Emissions (ktCO2e),16416.555899836156,7.291983274803037
+2026,S1 (Net-zero policy),HGV,Emissions (ktCO2e),15827.914453228483,14.432584701239115
+2027,S1 (Net-zero policy),HGV,Emissions (ktCO2e),15239.273006620815,21.368070203107948
+2028,S1 (Net-zero policy),HGV,Emissions (ktCO2e),14650.631560013146,28.050968612333747
+2029,S1 (Net-zero policy),HGV,Emissions (ktCO2e),14061.990113405474,34.441535700174576
+2030,S1 (Net-zero policy),HGV,Emissions (ktCO2e),13473.348666797803,40.508575512058776
+2031,S1 (Net-zero policy),HGV,Emissions (ktCO2e),12884.70722019013,46.22966143502424
+2032,S1 (Net-zero policy),HGV,Emissions (ktCO2e),12296.065773582459,51.590848065099884
+2033,S1 (Net-zero policy),HGV,Emissions (ktCO2e),11707.42432697479,56.58599276313668
+2034,S1 (Net-zero policy),HGV,Emissions (ktCO2e),11118.782880367118,61.21581379992185
+2035,S1 (Net-zero policy),HGV,Emissions (ktCO2e),10530.141433759449,65.48680424954907
+2036,S1 (Net-zero policy),HGV,Emissions (ktCO2e),9941.499987151776,69.4101026959093
+2037,S1 (Net-zero policy),HGV,Emissions (ktCO2e),9352.858540544104,73.00039868999892
+2038,S1 (Net-zero policy),HGV,Emissions (ktCO2e),8764.217093936433,76.27492706152317
+2039,S1 (Net-zero policy),HGV,Emissions (ktCO2e),8175.575647328764,79.25258360333541
+2040,S1 (Net-zero policy),HGV,Emissions (ktCO2e),7586.934200721093,81.95317692737281
+2041,S1 (Net-zero policy),HGV,Emissions (ktCO2e),6998.29275411342,84.39681797265007
+2042,S1 (Net-zero policy),HGV,Emissions (ktCO2e),6409.65130750575,86.60343952943887
+2043,S1 (Net-zero policy),HGV,Emissions (ktCO2e),5821.009860898081,88.59243261356052
+2044,S1 (Net-zero policy),HGV,Emissions (ktCO2e),5232.368414290409,90.38238380057088
+2045,S1 (Net-zero policy),HGV,Emissions (ktCO2e),4643.726967682738,91.99089693395636
+2046,S1 (Net-zero policy),HGV,Emissions (ktCO2e),4055.0855210750665,93.43448327330115
+2047,S1 (Net-zero policy),HGV,Emissions (ktCO2e),3466.444074467395,94.72850560260365
+2048,S1 (Net-zero policy),HGV,Emissions (ktCO2e),2877.802627859724,95.88716367021652
+2049,S1 (Net-zero policy),HGV,Emissions (ktCO2e),2289.1611812520546,96.92351029934827
+2050,S1 (Net-zero policy),HGV,Emissions (ktCO2e),1700.5197346443829,97.84948941158537
+2002,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),18268.0,0.0
+2003,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),18400.0,0.0
+2004,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),18528.0,0.0
+2005,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),18420.0,0.0
+2006,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),18369.0,0.0
+2007,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),18230.0,0.0
+2008,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),17850.0,0.0
+2009,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),15875.0,0.0
+2010,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),16530.0,0.0
+2011,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),16070.0,0.0
+2012,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),15574.0,0.0
+2013,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),15687.3,0.0
+2014,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),16755.0,0.0
+2015,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),15888.0,0.0
+2016,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),17380.0,0.0
+2017,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),16329.0,0.0
+2018,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),17772.0,0.0
+2019,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),17296.0,0.0
+2020,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),15920.0,0.0
+2021,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),17296.0,0.0
+2022,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),17437.0,0.0
+2023,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),16180.0,0.0
+2024,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),17005.197346443827,0.0
+2025,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),17707.806163622015,0.0
+2026,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),17659.03793937271,4.533333333333333
+2027,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),17623.3483732138,9.066666666666679
+2028,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),17593.21206097746,13.600000000000001
+2029,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),17560.024774515558,18.133333333333333
+2030,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),17514.103461699684,22.666666666666668
+2031,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),17444.686246421148,27.200000000000014
+2032,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),17339.932428590986,31.733333333333334
+2033,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),17186.922484139934,36.266666666666666
+2034,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),16971.658065018444,40.800000000000004
+2035,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),16679.0619991967,45.333333333333336
+2036,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),16292.978290664589,49.86666666666666
+2037,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),15796.172119431723,54.400000000000006
+2038,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),15170.329841527411,58.93333333333334
+2039,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),14396.058989000716,63.46666666666667
+2040,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),13452.888269920382,68.0
+2041,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),14352.54473985423,68.0
+2042,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),15310.559922519637,68.0
+2043,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),16328.837624940625,68.0
+2044,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),17409.28165414124,68.0
+2045,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),18553.795817145492,68.0
+2046,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),19764.28392097742,68.0
+2047,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),21042.64977266106,68.0
+2048,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),22390.797179220433,68.0
+2049,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),23810.62994767957,68.0
+2050,S2 (Fuel switch – HGV→HVO),HGV,Emissions (ktCO2e),25304.051885062505,68.0
+2002,S3 (Van electrification),HGV,Emissions (ktCO2e),18268.0,0.0
+2003,S3 (Van electrification),HGV,Emissions (ktCO2e),18400.0,0.0
+2004,S3 (Van electrification),HGV,Emissions (ktCO2e),18528.0,0.0
+2005,S3 (Van electrification),HGV,Emissions (ktCO2e),18420.0,0.0
+2006,S3 (Van electrification),HGV,Emissions (ktCO2e),18369.0,0.0
+2007,S3 (Van electrification),HGV,Emissions (ktCO2e),18230.0,0.0
+2008,S3 (Van electrification),HGV,Emissions (ktCO2e),17850.0,0.0
+2009,S3 (Van electrification),HGV,Emissions (ktCO2e),15875.0,0.0
+2010,S3 (Van electrification),HGV,Emissions (ktCO2e),16530.0,0.0
+2011,S3 (Van electrification),HGV,Emissions (ktCO2e),16070.0,0.0
+2012,S3 (Van electrification),HGV,Emissions (ktCO2e),15574.0,0.0
+2013,S3 (Van electrification),HGV,Emissions (ktCO2e),15687.3,0.0
+2014,S3 (Van electrification),HGV,Emissions (ktCO2e),16755.0,0.0
+2015,S3 (Van electrification),HGV,Emissions (ktCO2e),15888.0,0.0
+2016,S3 (Van electrification),HGV,Emissions (ktCO2e),17380.0,0.0
+2017,S3 (Van electrification),HGV,Emissions (ktCO2e),16329.0,0.0
+2018,S3 (Van electrification),HGV,Emissions (ktCO2e),17772.0,0.0
+2019,S3 (Van electrification),HGV,Emissions (ktCO2e),17296.0,0.0
+2020,S3 (Van electrification),HGV,Emissions (ktCO2e),15920.0,0.0
+2021,S3 (Van electrification),HGV,Emissions (ktCO2e),17296.0,0.0
+2022,S3 (Van electrification),HGV,Emissions (ktCO2e),17437.0,0.0
+2023,S3 (Van electrification),HGV,Emissions (ktCO2e),16180.0,0.0
+2024,S3 (Van electrification),HGV,Emissions (ktCO2e),17005.197346443827,0.0
+2025,S3 (Van electrification),HGV,Emissions (ktCO2e),17707.806163622015,0.0
+2026,S3 (Van electrification),HGV,Emissions (ktCO2e),18497.59560688482,0.0
+2027,S3 (Van electrification),HGV,Emissions (ktCO2e),19380.515073182334,0.0
+2028,S3 (Van electrification),HGV,Emissions (ktCO2e),20362.513959464653,0.0
+2029,S3 (Van electrification),HGV,Emissions (ktCO2e),21449.54166268187,0.0
+2030,S3 (Van electrification),HGV,Emissions (ktCO2e),22647.547579784074,0.0
+2031,S3 (Van electrification),HGV,Emissions (ktCO2e),23962.48110772136,0.0
+2032,S3 (Van electrification),HGV,Emissions (ktCO2e),25400.291643443827,0.0
+2033,S3 (Van electrification),HGV,Emissions (ktCO2e),26966.92858390157,0.0
+2034,S3 (Van electrification),HGV,Emissions (ktCO2e),28668.341326044672,0.0
+2035,S3 (Van electrification),HGV,Emissions (ktCO2e),30510.479266823233,0.0
+2036,S3 (Van electrification),HGV,Emissions (ktCO2e),32499.29180318734,0.0
+2037,S3 (Van electrification),HGV,Emissions (ktCO2e),34640.728332087114,0.0
+2038,S3 (Van electrification),HGV,Emissions (ktCO2e),36940.7382504726,0.0
+2039,S3 (Van electrification),HGV,Emissions (ktCO2e),39405.270955293934,0.0
+2040,S3 (Van electrification),HGV,Emissions (ktCO2e),42040.2758435012,0.0
+2041,S3 (Van electrification),HGV,Emissions (ktCO2e),44851.70231204447,0.0
+2042,S3 (Van electrification),HGV,Emissions (ktCO2e),47845.49975787387,0.0
+2043,S3 (Van electrification),HGV,Emissions (ktCO2e),51027.61757793946,0.0
+2044,S3 (Van electrification),HGV,Emissions (ktCO2e),54404.005169191376,0.0
+2045,S3 (Van electrification),HGV,Emissions (ktCO2e),57980.611928579674,0.0
+2046,S3 (Van electrification),HGV,Emissions (ktCO2e),61763.38725305445,0.0
+2047,S3 (Van electrification),HGV,Emissions (ktCO2e),65758.28053956582,0.0
+2048,S3 (Van electrification),HGV,Emissions (ktCO2e),69971.24118506386,0.0
+2049,S3 (Van electrification),HGV,Emissions (ktCO2e),74408.21858649867,0.0
+2050,S3 (Van electrification),HGV,Emissions (ktCO2e),79075.16214082034,0.0
+2002,S4 (Combined high-impact),HGV,Emissions (ktCO2e),18268.0,0.0
+2003,S4 (Combined high-impact),HGV,Emissions (ktCO2e),18400.0,0.0
+2004,S4 (Combined high-impact),HGV,Emissions (ktCO2e),18528.0,0.0
+2005,S4 (Combined high-impact),HGV,Emissions (ktCO2e),18420.0,0.0
+2006,S4 (Combined high-impact),HGV,Emissions (ktCO2e),18369.0,0.0
+2007,S4 (Combined high-impact),HGV,Emissions (ktCO2e),18230.0,0.0
+2008,S4 (Combined high-impact),HGV,Emissions (ktCO2e),17850.0,0.0
+2009,S4 (Combined high-impact),HGV,Emissions (ktCO2e),15875.0,0.0
+2010,S4 (Combined high-impact),HGV,Emissions (ktCO2e),16530.0,0.0
+2011,S4 (Combined high-impact),HGV,Emissions (ktCO2e),16070.0,0.0
+2012,S4 (Combined high-impact),HGV,Emissions (ktCO2e),15574.0,0.0
+2013,S4 (Combined high-impact),HGV,Emissions (ktCO2e),15687.3,0.0
+2014,S4 (Combined high-impact),HGV,Emissions (ktCO2e),16755.0,0.0
+2015,S4 (Combined high-impact),HGV,Emissions (ktCO2e),15888.0,0.0
+2016,S4 (Combined high-impact),HGV,Emissions (ktCO2e),17380.0,0.0
+2017,S4 (Combined high-impact),HGV,Emissions (ktCO2e),16329.0,0.0
+2018,S4 (Combined high-impact),HGV,Emissions (ktCO2e),17772.0,0.0
+2019,S4 (Combined high-impact),HGV,Emissions (ktCO2e),17296.0,0.0
+2020,S4 (Combined high-impact),HGV,Emissions (ktCO2e),15920.0,0.0
+2021,S4 (Combined high-impact),HGV,Emissions (ktCO2e),17296.0,0.0
+2022,S4 (Combined high-impact),HGV,Emissions (ktCO2e),17437.0,0.0
+2023,S4 (Combined high-impact),HGV,Emissions (ktCO2e),16180.0,0.0
+2024,S4 (Combined high-impact),HGV,Emissions (ktCO2e),17005.197346443827,0.0
+2025,S4 (Combined high-impact),HGV,Emissions (ktCO2e),17707.806163622015,0.0
+2026,S4 (Combined high-impact),HGV,Emissions (ktCO2e),17659.03793937271,4.533333333333333
+2027,S4 (Combined high-impact),HGV,Emissions (ktCO2e),17623.3483732138,9.066666666666679
+2028,S4 (Combined high-impact),HGV,Emissions (ktCO2e),17593.21206097746,13.600000000000001
+2029,S4 (Combined high-impact),HGV,Emissions (ktCO2e),17560.024774515558,18.133333333333333
+2030,S4 (Combined high-impact),HGV,Emissions (ktCO2e),17514.103461699684,22.666666666666668
+2031,S4 (Combined high-impact),HGV,Emissions (ktCO2e),17444.686246421148,27.200000000000014
+2032,S4 (Combined high-impact),HGV,Emissions (ktCO2e),17339.932428590986,31.733333333333334
+2033,S4 (Combined high-impact),HGV,Emissions (ktCO2e),17186.922484139934,36.266666666666666
+2034,S4 (Combined high-impact),HGV,Emissions (ktCO2e),16971.658065018444,40.800000000000004
+2035,S4 (Combined high-impact),HGV,Emissions (ktCO2e),16679.0619991967,45.333333333333336
+2036,S4 (Combined high-impact),HGV,Emissions (ktCO2e),16292.978290664589,49.86666666666666
+2037,S4 (Combined high-impact),HGV,Emissions (ktCO2e),15796.172119431723,54.400000000000006
+2038,S4 (Combined high-impact),HGV,Emissions (ktCO2e),15170.329841527411,58.93333333333334
+2039,S4 (Combined high-impact),HGV,Emissions (ktCO2e),14396.058989000716,63.46666666666667
+2040,S4 (Combined high-impact),HGV,Emissions (ktCO2e),13452.888269920382,68.0
+2041,S4 (Combined high-impact),HGV,Emissions (ktCO2e),14352.54473985423,68.0
+2042,S4 (Combined high-impact),HGV,Emissions (ktCO2e),15310.559922519637,68.0
+2043,S4 (Combined high-impact),HGV,Emissions (ktCO2e),16328.837624940625,68.0
+2044,S4 (Combined high-impact),HGV,Emissions (ktCO2e),17409.28165414124,68.0
+2045,S4 (Combined high-impact),HGV,Emissions (ktCO2e),18553.795817145492,68.0
+2046,S4 (Combined high-impact),HGV,Emissions (ktCO2e),19764.28392097742,68.0
+2047,S4 (Combined high-impact),HGV,Emissions (ktCO2e),21042.64977266106,68.0
+2048,S4 (Combined high-impact),HGV,Emissions (ktCO2e),22390.797179220433,68.0
+2049,S4 (Combined high-impact),HGV,Emissions (ktCO2e),23810.62994767957,68.0
+2050,S4 (Combined high-impact),HGV,Emissions (ktCO2e),25304.051885062505,68.0
+2002,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.29,0.0
+2003,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2004,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.27,0.0
+2005,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.33,0.0
+2006,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.33,0.0
+2007,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.34,0.0
+2008,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2009,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.29,0.0
+2010,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.27,0.0
+2011,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.34,0.0
+2012,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.3,0.0
+2013,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.38,0.0
+2014,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.34,0.0
+2015,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.33,0.0
+2016,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.32,0.0
+2017,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.31,0.0
+2018,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.31,0.0
+2019,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.3,0.0
+2020,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.29,0.0
+2021,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2022,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2023,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.27,0.0
+2024,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2686319987068881,0.0
+2025,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2672639974137763,0.0
+2026,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2658959961206642,0.0
+2027,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2645279948275523,0.0
+2028,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2631599935344404,0.0
+2029,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2617919922413285,0.0
+2030,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2604239909482167,0.0
+2031,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2590559896551046,0.0
+2032,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2576879883619927,0.0
+2033,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.256319987068881,0.0
+2034,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2549519857757692,0.0
+2035,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2535839844826573,0.0
+2036,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2522159831895452,0.0
+2037,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2508479818964333,0.0
+2038,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2494799806033214,0.0
+2039,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2481119793102096,0.0
+2040,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2467439780170975,0.0
+2041,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2453759767239856,0.0
+2042,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2440079754308737,0.0
+2043,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2426399741377618,0.0
+2044,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.24127197284465,0.0
+2045,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2399039715515379,0.0
+2046,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.238535970258426,0.0
+2047,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2371679689653141,0.0
+2048,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2357999676722022,0.0
+2049,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2344319663790901,0.0
+2050,S0 (baseline),HGV,Energy Intensity (MJ/t·km),1.2330639650859783,0.0
+2002,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.29,0.0
+2003,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2004,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.27,0.0
+2005,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.33,0.0
+2006,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.33,0.0
+2007,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.34,0.0
+2008,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2009,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.29,0.0
+2010,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.27,0.0
+2011,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.34,0.0
+2012,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.3,0.0
+2013,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.38,0.0
+2014,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.34,0.0
+2015,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.33,0.0
+2016,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.32,0.0
+2017,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.31,0.0
+2018,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.31,0.0
+2019,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.3,0.0
+2020,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.29,0.0
+2021,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2022,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2023,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.27,0.0
+2024,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2686319987068881,0.0
+2025,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2672639974137763,0.0
+2026,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2658959961206642,0.0
+2027,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2645279948275523,0.0
+2028,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2631599935344404,0.0
+2029,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2617919922413285,0.0
+2030,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2604239909482167,0.0
+2031,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2590559896551046,0.0
+2032,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2576879883619927,0.0
+2033,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.256319987068881,0.0
+2034,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2549519857757692,0.0
+2035,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2535839844826573,0.0
+2036,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2522159831895452,0.0
+2037,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2508479818964333,0.0
+2038,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2494799806033214,0.0
+2039,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2481119793102096,0.0
+2040,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2467439780170975,0.0
+2041,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2453759767239856,0.0
+2042,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2440079754308737,0.0
+2043,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2426399741377618,0.0
+2044,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.24127197284465,0.0
+2045,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2399039715515379,0.0
+2046,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.238535970258426,0.0
+2047,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2371679689653141,0.0
+2048,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2357999676722022,0.0
+2049,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2344319663790901,0.0
+2050,S1 (Net-zero policy),HGV,Energy Intensity (MJ/t·km),1.2330639650859783,0.0
+2002,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.29,0.0
+2003,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2004,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.27,0.0
+2005,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.33,0.0
+2006,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.33,0.0
+2007,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.34,0.0
+2008,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2009,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.29,0.0
+2010,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.27,0.0
+2011,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.34,0.0
+2012,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.3,0.0
+2013,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.38,0.0
+2014,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.34,0.0
+2015,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.33,0.0
+2016,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.32,0.0
+2017,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.31,0.0
+2018,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.31,0.0
+2019,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.3,0.0
+2020,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.29,0.0
+2021,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2022,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2023,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.27,0.0
+2024,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2686319987068881,0.0
+2025,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2672639974137763,0.0
+2026,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2658959961206642,0.0
+2027,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2645279948275523,0.0
+2028,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2631599935344404,0.0
+2029,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2617919922413285,0.0
+2030,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2604239909482167,0.0
+2031,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2590559896551046,0.0
+2032,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2576879883619927,0.0
+2033,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.256319987068881,0.0
+2034,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2549519857757692,0.0
+2035,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2535839844826573,0.0
+2036,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2522159831895452,0.0
+2037,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2508479818964333,0.0
+2038,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2494799806033214,0.0
+2039,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2481119793102096,0.0
+2040,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2467439780170975,0.0
+2041,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2453759767239856,0.0
+2042,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2440079754308737,0.0
+2043,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2426399741377618,0.0
+2044,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.24127197284465,0.0
+2045,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2399039715515379,0.0
+2046,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.238535970258426,0.0
+2047,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2371679689653141,0.0
+2048,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2357999676722022,0.0
+2049,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2344319663790901,0.0
+2050,S2 (Fuel switch – HGV→HVO),HGV,Energy Intensity (MJ/t·km),1.2330639650859783,0.0
+2002,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.29,0.0
+2003,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2004,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.27,0.0
+2005,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.33,0.0
+2006,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.33,0.0
+2007,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.34,0.0
+2008,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2009,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.29,0.0
+2010,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.27,0.0
+2011,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.34,0.0
+2012,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.3,0.0
+2013,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.38,0.0
+2014,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.34,0.0
+2015,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.33,0.0
+2016,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.32,0.0
+2017,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.31,0.0
+2018,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.31,0.0
+2019,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.3,0.0
+2020,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.29,0.0
+2021,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2022,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2023,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.27,0.0
+2024,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2686319987068881,0.0
+2025,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2672639974137763,0.0
+2026,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2658959961206642,0.0
+2027,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2645279948275523,0.0
+2028,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2631599935344404,0.0
+2029,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2617919922413285,0.0
+2030,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2604239909482167,0.0
+2031,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2590559896551046,0.0
+2032,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2576879883619927,0.0
+2033,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.256319987068881,0.0
+2034,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2549519857757692,0.0
+2035,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2535839844826573,0.0
+2036,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2522159831895452,0.0
+2037,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2508479818964333,0.0
+2038,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2494799806033214,0.0
+2039,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2481119793102096,0.0
+2040,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2467439780170975,0.0
+2041,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2453759767239856,0.0
+2042,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2440079754308737,0.0
+2043,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2426399741377618,0.0
+2044,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.24127197284465,0.0
+2045,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2399039715515379,0.0
+2046,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.238535970258426,0.0
+2047,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2371679689653141,0.0
+2048,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2357999676722022,0.0
+2049,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2344319663790901,0.0
+2050,S3 (Van electrification),HGV,Energy Intensity (MJ/t·km),1.2330639650859783,0.0
+2002,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.29,0.0
+2003,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2004,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.27,0.0
+2005,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.33,0.0
+2006,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.33,0.0
+2007,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.34,0.0
+2008,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2009,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.29,0.0
+2010,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.27,0.0
+2011,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.34,0.0
+2012,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.3,0.0
+2013,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.38,0.0
+2014,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.34,0.0
+2015,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.33,0.0
+2016,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.32,0.0
+2017,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.31,0.0
+2018,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.31,0.0
+2019,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.3,0.0
+2020,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.29,0.0
+2021,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2022,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.28,0.0
+2023,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.27,0.0
+2024,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.2686319987068881,0.0
+2025,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.262389905116031,0.38461538461538325
+2026,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.2561583346120437,0.7692307692307665
+2027,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.2499372871949268,1.1538461538461497
+2028,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.2437267628646798,1.538461538461544
+2029,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.237526761621303,1.9230769230769162
+2030,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.2313372834647962,2.3076923076923106
+2031,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.2251583283951595,2.692307692307694
+2032,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.2189898964123929,3.076923076923077
+2033,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.2128319875164968,3.4615384615384492
+2034,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.2066846017074704,3.8461538461538436
+2035,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.200547738985314,4.230769230769226
+2036,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.194421399350028,4.615384615384599
+2037,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.1883055828016116,5.000000000000004
+2038,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.1822002893400656,5.384615384615388
+2039,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.1761055189653897,5.769230769230771
+2040,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.1700212716775837,6.153846153846154
+2041,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.163947547476648,6.538461538461537
+2042,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.1578843463625825,6.923076923076921
+2043,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.151831668335387,7.307692307692292
+2044,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.1457895133950615,7.692307692307687
+2045,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.139757881541606,8.07692307692307
+2046,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.1337367727750207,8.461538461538465
+2047,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.1277261870953055,8.846153846153848
+2048,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.1217261245024606,9.23076923076922
+2049,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.1157365849964853,9.615384615384615
+2050,S4 (Combined high-impact),HGV,Energy Intensity (MJ/t·km),1.1097575685773804,10.000000000000009
+2002,S0 (baseline),Ships,Emissions (ktCO2e),40225.06786561302,0.0
+2003,S0 (baseline),Ships,Emissions (ktCO2e),40965.672224732174,0.0
+2004,S0 (baseline),Ships,Emissions (ktCO2e),41089.82252964465,0.0
+2005,S0 (baseline),Ships,Emissions (ktCO2e),39527.140536123305,0.0
+2006,S0 (baseline),Ships,Emissions (ktCO2e),38719.24799994094,0.0
+2007,S0 (baseline),Ships,Emissions (ktCO2e),37333.066676870425,0.0
+2008,S0 (baseline),Ships,Emissions (ktCO2e),38216.41832268459,0.0
+2009,S0 (baseline),Ships,Emissions (ktCO2e),48721.32469315617,0.0
+2010,S0 (baseline),Ships,Emissions (ktCO2e),40725.60754405812,0.0
+2011,S0 (baseline),Ships,Emissions (ktCO2e),38374.588631163206,0.0
+2012,S0 (baseline),Ships,Emissions (ktCO2e),38370.989710244234,0.0
+2013,S0 (baseline),Ships,Emissions (ktCO2e),39158.83253707414,0.0
+2014,S0 (baseline),Ships,Emissions (ktCO2e),55600.83886742563,0.0
+2015,S0 (baseline),Ships,Emissions (ktCO2e),53730.8304570716,0.0
+2016,S0 (baseline),Ships,Emissions (ktCO2e),29607.82906178484,0.0
+2017,S0 (baseline),Ships,Emissions (ktCO2e),34936.556437338266,0.0
+2018,S0 (baseline),Ships,Emissions (ktCO2e),39447.63433950461,0.0
+2019,S0 (baseline),Ships,Emissions (ktCO2e),28373.584524056758,0.0
+2020,S0 (baseline),Ships,Emissions (ktCO2e),48611.428746767546,0.0
+2021,S0 (baseline),Ships,Emissions (ktCO2e),30156.788763409742,0.0
+2022,S0 (baseline),Ships,Emissions (ktCO2e),49240.58632975625,0.0
+2023,S0 (baseline),Ships,Emissions (ktCO2e),46208.94320157988,0.0
+2024,S0 (baseline),Ships,Emissions (ktCO2e),45435.932447703846,0.0
+2025,S0 (baseline),Ships,Emissions (ktCO2e),47313.22243758716,0.0
+2026,S0 (baseline),Ships,Emissions (ktCO2e),49423.44903836827,0.0
+2027,S0 (baseline),Ships,Emissions (ktCO2e),51782.50835477462,0.0
+2028,S0 (baseline),Ships,Emissions (ktCO2e),54406.29649153355,0.0
+2029,S0 (baseline),Ships,Emissions (ktCO2e),57310.709553372464,0.0
+2030,S0 (baseline),Ships,Emissions (ktCO2e),60511.64364501875,0.0
+2031,S0 (baseline),Ships,Emissions (ktCO2e),64024.99487119983,0.0
+2032,S0 (baseline),Ships,Emissions (ktCO2e),67866.65933664312,0.0
+2033,S0 (baseline),Ships,Emissions (ktCO2e),72052.5331460759,0.0
+2034,S0 (baseline),Ships,Emissions (ktCO2e),76598.51240422559,0.0
+2035,S0 (baseline),Ships,Emissions (ktCO2e),81520.4932158197,0.0
+2036,S0 (baseline),Ships,Emissions (ktCO2e),86834.37168558547,0.0
+2037,S0 (baseline),Ships,Emissions (ktCO2e),92556.04391825042,0.0
+2038,S0 (baseline),Ships,Emissions (ktCO2e),98701.40601854183,0.0
+2039,S0 (baseline),Ships,Emissions (ktCO2e),105286.35409118712,0.0
+2040,S0 (baseline),Ships,Emissions (ktCO2e),112326.78424091381,0.0
+2041,S0 (baseline),Ships,Emissions (ktCO2e),119838.59257244912,0.0
+2042,S0 (baseline),Ships,Emissions (ktCO2e),127837.67519052059,0.0
+2043,S0 (baseline),Ships,Emissions (ktCO2e),136339.92819985538,0.0
+2044,S0 (baseline),Ships,Emissions (ktCO2e),145361.24770518113,0.0
+2045,S0 (baseline),Ships,Emissions (ktCO2e),154917.52981122513,0.0
+2046,S0 (baseline),Ships,Emissions (ktCO2e),165024.67062271468,0.0
+2047,S0 (baseline),Ships,Emissions (ktCO2e),175698.5662443773,0.0
+2048,S0 (baseline),Ships,Emissions (ktCO2e),186955.11278094037,0.0
+2049,S0 (baseline),Ships,Emissions (ktCO2e),198810.20633713133,0.0
+2050,S0 (baseline),Ships,Emissions (ktCO2e),211279.74301767745,0.0
+2002,S1 (Net-zero policy),Ships,Emissions (ktCO2e),40225.06786561302,0.0
+2003,S1 (Net-zero policy),Ships,Emissions (ktCO2e),40965.672224732174,0.0
+2004,S1 (Net-zero policy),Ships,Emissions (ktCO2e),41089.82252964465,0.0
+2005,S1 (Net-zero policy),Ships,Emissions (ktCO2e),39527.140536123305,0.0
+2006,S1 (Net-zero policy),Ships,Emissions (ktCO2e),38719.24799994094,0.0
+2007,S1 (Net-zero policy),Ships,Emissions (ktCO2e),37333.066676870425,0.0
+2008,S1 (Net-zero policy),Ships,Emissions (ktCO2e),38216.41832268459,0.0
+2009,S1 (Net-zero policy),Ships,Emissions (ktCO2e),48721.32469315617,0.0
+2010,S1 (Net-zero policy),Ships,Emissions (ktCO2e),40725.60754405812,0.0
+2011,S1 (Net-zero policy),Ships,Emissions (ktCO2e),38374.588631163206,0.0
+2012,S1 (Net-zero policy),Ships,Emissions (ktCO2e),38370.989710244234,0.0
+2013,S1 (Net-zero policy),Ships,Emissions (ktCO2e),39158.83253707414,0.0
+2014,S1 (Net-zero policy),Ships,Emissions (ktCO2e),55600.83886742563,0.0
+2015,S1 (Net-zero policy),Ships,Emissions (ktCO2e),53730.8304570716,0.0
+2016,S1 (Net-zero policy),Ships,Emissions (ktCO2e),29607.82906178484,0.0
+2017,S1 (Net-zero policy),Ships,Emissions (ktCO2e),34936.556437338266,0.0
+2018,S1 (Net-zero policy),Ships,Emissions (ktCO2e),39447.63433950461,0.0
+2019,S1 (Net-zero policy),Ships,Emissions (ktCO2e),28373.584524056758,0.0
+2020,S1 (Net-zero policy),Ships,Emissions (ktCO2e),48611.428746767546,0.0
+2021,S1 (Net-zero policy),Ships,Emissions (ktCO2e),30156.788763409742,0.0
+2022,S1 (Net-zero policy),Ships,Emissions (ktCO2e),49240.58632975625,0.0
+2023,S1 (Net-zero policy),Ships,Emissions (ktCO2e),46208.94320157988,0.0
+2024,S1 (Net-zero policy),Ships,Emissions (ktCO2e),45435.932447703846,0.0
+2025,S1 (Net-zero policy),Ships,Emissions (ktCO2e),43863.15017066795,7.291983274803027
+2026,S1 (Net-zero policy),Ships,Emissions (ktCO2e),42290.36789363202,14.432584701239115
+2027,S1 (Net-zero policy),Ships,Emissions (ktCO2e),40717.58561659614,21.368070203107948
+2028,S1 (Net-zero policy),Ships,Emissions (ktCO2e),39144.80333956023,28.050968612333747
+2029,S1 (Net-zero policy),Ships,Emissions (ktCO2e),37572.02106252433,34.441535700174576
+2030,S1 (Net-zero policy),Ships,Emissions (ktCO2e),35999.238785488415,40.508575512058776
+2031,S1 (Net-zero policy),Ships,Emissions (ktCO2e),34426.45650845252,46.22966143502424
+2032,S1 (Net-zero policy),Ships,Emissions (ktCO2e),32853.67423141664,51.590848065099884
+2033,S1 (Net-zero policy),Ships,Emissions (ktCO2e),31280.89195438073,56.58599276313668
+2034,S1 (Net-zero policy),Ships,Emissions (ktCO2e),29708.109677344808,61.21581379992185
+2035,S1 (Net-zero policy),Ships,Emissions (ktCO2e),28135.327400308925,65.48680424954907
+2036,S1 (Net-zero policy),Ships,Emissions (ktCO2e),26562.545123273012,69.4101026959093
+2037,S1 (Net-zero policy),Ships,Emissions (ktCO2e),24989.762846237107,73.00039868999892
+2038,S1 (Net-zero policy),Ships,Emissions (ktCO2e),23416.98056920121,76.27492706152317
+2039,S1 (Net-zero policy),Ships,Emissions (ktCO2e),21844.1982921653,79.25258360333541
+2040,S1 (Net-zero policy),Ships,Emissions (ktCO2e),20271.4160151294,81.95317692737281
+2041,S1 (Net-zero policy),Ships,Emissions (ktCO2e),18698.633738093504,84.39681797265007
+2042,S1 (Net-zero policy),Ships,Emissions (ktCO2e),17125.85146105761,86.60343952943887
+2043,S1 (Net-zero policy),Ships,Emissions (ktCO2e),15553.069184021704,88.59243261356052
+2044,S1 (Net-zero policy),Ships,Emissions (ktCO2e),13980.2869069858,90.38238380057088
+2045,S1 (Net-zero policy),Ships,Emissions (ktCO2e),12407.504629949899,91.99089693395636
+2046,S1 (Net-zero policy),Ships,Emissions (ktCO2e),10834.722352913992,93.43448327330115
+2047,S1 (Net-zero policy),Ships,Emissions (ktCO2e),9261.940075878085,94.72850560260365
+2048,S1 (Net-zero policy),Ships,Emissions (ktCO2e),7689.157798842184,95.88716367021652
+2049,S1 (Net-zero policy),Ships,Emissions (ktCO2e),6116.37552180629,96.92351029934827
+2050,S1 (Net-zero policy),Ships,Emissions (ktCO2e),4543.593244770386,97.84948941158537
+2002,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),40225.06786561302,0.0
+2003,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),40965.672224732174,0.0
+2004,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),41089.82252964465,0.0
+2005,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),39527.140536123305,0.0
+2006,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),38719.24799994094,0.0
+2007,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),37333.066676870425,0.0
+2008,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),38216.41832268459,0.0
+2009,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),48721.32469315617,0.0
+2010,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),40725.60754405812,0.0
+2011,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),38374.588631163206,0.0
+2012,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),38370.989710244234,0.0
+2013,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),39158.83253707414,0.0
+2014,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),55600.83886742563,0.0
+2015,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),53730.8304570716,0.0
+2016,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),29607.82906178484,0.0
+2017,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),34936.556437338266,0.0
+2018,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),39447.63433950461,0.0
+2019,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),28373.584524056758,0.0
+2020,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),48611.428746767546,0.0
+2021,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),30156.788763409742,0.0
+2022,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),49240.58632975625,0.0
+2023,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),46208.94320157988,0.0
+2024,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),45435.932447703846,0.0
+2025,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),47313.22243758716,0.0
+2026,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),49423.44903836827,0.0
+2027,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),51782.50835477462,0.0
+2028,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),54406.29649153355,0.0
+2029,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),57310.709553372464,0.0
+2030,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),60511.64364501875,0.0
+2031,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),64024.99487119983,0.0
+2032,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),67866.65933664312,0.0
+2033,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),72052.5331460759,0.0
+2034,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),76598.51240422559,0.0
+2035,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),81520.4932158197,0.0
+2036,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),86834.37168558547,0.0
+2037,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),92556.04391825042,0.0
+2038,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),98701.40601854183,0.0
+2039,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),105286.35409118712,0.0
+2040,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),112326.78424091381,0.0
+2041,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),119838.59257244912,0.0
+2042,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),127837.67519052059,0.0
+2043,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),136339.92819985538,0.0
+2044,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),145361.24770518113,0.0
+2045,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),154917.52981122513,0.0
+2046,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),165024.67062271468,0.0
+2047,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),175698.5662443773,0.0
+2048,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),186955.11278094037,0.0
+2049,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),198810.20633713133,0.0
+2050,S2 (Fuel switch – HGV→HVO),Ships,Emissions (ktCO2e),211279.74301767745,0.0
+2002,S3 (Van electrification),Ships,Emissions (ktCO2e),40225.06786561302,0.0
+2003,S3 (Van electrification),Ships,Emissions (ktCO2e),40965.672224732174,0.0
+2004,S3 (Van electrification),Ships,Emissions (ktCO2e),41089.82252964465,0.0
+2005,S3 (Van electrification),Ships,Emissions (ktCO2e),39527.140536123305,0.0
+2006,S3 (Van electrification),Ships,Emissions (ktCO2e),38719.24799994094,0.0
+2007,S3 (Van electrification),Ships,Emissions (ktCO2e),37333.066676870425,0.0
+2008,S3 (Van electrification),Ships,Emissions (ktCO2e),38216.41832268459,0.0
+2009,S3 (Van electrification),Ships,Emissions (ktCO2e),48721.32469315617,0.0
+2010,S3 (Van electrification),Ships,Emissions (ktCO2e),40725.60754405812,0.0
+2011,S3 (Van electrification),Ships,Emissions (ktCO2e),38374.588631163206,0.0
+2012,S3 (Van electrification),Ships,Emissions (ktCO2e),38370.989710244234,0.0
+2013,S3 (Van electrification),Ships,Emissions (ktCO2e),39158.83253707414,0.0
+2014,S3 (Van electrification),Ships,Emissions (ktCO2e),55600.83886742563,0.0
+2015,S3 (Van electrification),Ships,Emissions (ktCO2e),53730.8304570716,0.0
+2016,S3 (Van electrification),Ships,Emissions (ktCO2e),29607.82906178484,0.0
+2017,S3 (Van electrification),Ships,Emissions (ktCO2e),34936.556437338266,0.0
+2018,S3 (Van electrification),Ships,Emissions (ktCO2e),39447.63433950461,0.0
+2019,S3 (Van electrification),Ships,Emissions (ktCO2e),28373.584524056758,0.0
+2020,S3 (Van electrification),Ships,Emissions (ktCO2e),48611.428746767546,0.0
+2021,S3 (Van electrification),Ships,Emissions (ktCO2e),30156.788763409742,0.0
+2022,S3 (Van electrification),Ships,Emissions (ktCO2e),49240.58632975625,0.0
+2023,S3 (Van electrification),Ships,Emissions (ktCO2e),46208.94320157988,0.0
+2024,S3 (Van electrification),Ships,Emissions (ktCO2e),45435.932447703846,0.0
+2025,S3 (Van electrification),Ships,Emissions (ktCO2e),47313.22243758716,0.0
+2026,S3 (Van electrification),Ships,Emissions (ktCO2e),49423.44903836827,0.0
+2027,S3 (Van electrification),Ships,Emissions (ktCO2e),51782.50835477462,0.0
+2028,S3 (Van electrification),Ships,Emissions (ktCO2e),54406.29649153355,0.0
+2029,S3 (Van electrification),Ships,Emissions (ktCO2e),57310.709553372464,0.0
+2030,S3 (Van electrification),Ships,Emissions (ktCO2e),60511.64364501875,0.0
+2031,S3 (Van electrification),Ships,Emissions (ktCO2e),64024.99487119983,0.0
+2032,S3 (Van electrification),Ships,Emissions (ktCO2e),67866.65933664312,0.0
+2033,S3 (Van electrification),Ships,Emissions (ktCO2e),72052.5331460759,0.0
+2034,S3 (Van electrification),Ships,Emissions (ktCO2e),76598.51240422559,0.0
+2035,S3 (Van electrification),Ships,Emissions (ktCO2e),81520.4932158197,0.0
+2036,S3 (Van electrification),Ships,Emissions (ktCO2e),86834.37168558547,0.0
+2037,S3 (Van electrification),Ships,Emissions (ktCO2e),92556.04391825042,0.0
+2038,S3 (Van electrification),Ships,Emissions (ktCO2e),98701.40601854183,0.0
+2039,S3 (Van electrification),Ships,Emissions (ktCO2e),105286.35409118712,0.0
+2040,S3 (Van electrification),Ships,Emissions (ktCO2e),112326.78424091381,0.0
+2041,S3 (Van electrification),Ships,Emissions (ktCO2e),119838.59257244912,0.0
+2042,S3 (Van electrification),Ships,Emissions (ktCO2e),127837.67519052059,0.0
+2043,S3 (Van electrification),Ships,Emissions (ktCO2e),136339.92819985538,0.0
+2044,S3 (Van electrification),Ships,Emissions (ktCO2e),145361.24770518113,0.0
+2045,S3 (Van electrification),Ships,Emissions (ktCO2e),154917.52981122513,0.0
+2046,S3 (Van electrification),Ships,Emissions (ktCO2e),165024.67062271468,0.0
+2047,S3 (Van electrification),Ships,Emissions (ktCO2e),175698.5662443773,0.0
+2048,S3 (Van electrification),Ships,Emissions (ktCO2e),186955.11278094037,0.0
+2049,S3 (Van electrification),Ships,Emissions (ktCO2e),198810.20633713133,0.0
+2050,S3 (Van electrification),Ships,Emissions (ktCO2e),211279.74301767745,0.0
+2002,S4 (Combined high-impact),Ships,Emissions (ktCO2e),40225.06786561302,0.0
+2003,S4 (Combined high-impact),Ships,Emissions (ktCO2e),40965.672224732174,0.0
+2004,S4 (Combined high-impact),Ships,Emissions (ktCO2e),41089.82252964465,0.0
+2005,S4 (Combined high-impact),Ships,Emissions (ktCO2e),39527.140536123305,0.0
+2006,S4 (Combined high-impact),Ships,Emissions (ktCO2e),38719.24799994094,0.0
+2007,S4 (Combined high-impact),Ships,Emissions (ktCO2e),37333.066676870425,0.0
+2008,S4 (Combined high-impact),Ships,Emissions (ktCO2e),38216.41832268459,0.0
+2009,S4 (Combined high-impact),Ships,Emissions (ktCO2e),48721.32469315617,0.0
+2010,S4 (Combined high-impact),Ships,Emissions (ktCO2e),40725.60754405812,0.0
+2011,S4 (Combined high-impact),Ships,Emissions (ktCO2e),38374.588631163206,0.0
+2012,S4 (Combined high-impact),Ships,Emissions (ktCO2e),38370.989710244234,0.0
+2013,S4 (Combined high-impact),Ships,Emissions (ktCO2e),39158.83253707414,0.0
+2014,S4 (Combined high-impact),Ships,Emissions (ktCO2e),55600.83886742563,0.0
+2015,S4 (Combined high-impact),Ships,Emissions (ktCO2e),53730.8304570716,0.0
+2016,S4 (Combined high-impact),Ships,Emissions (ktCO2e),29607.82906178484,0.0
+2017,S4 (Combined high-impact),Ships,Emissions (ktCO2e),34936.556437338266,0.0
+2018,S4 (Combined high-impact),Ships,Emissions (ktCO2e),39447.63433950461,0.0
+2019,S4 (Combined high-impact),Ships,Emissions (ktCO2e),28373.584524056758,0.0
+2020,S4 (Combined high-impact),Ships,Emissions (ktCO2e),48611.428746767546,0.0
+2021,S4 (Combined high-impact),Ships,Emissions (ktCO2e),30156.788763409742,0.0
+2022,S4 (Combined high-impact),Ships,Emissions (ktCO2e),49240.58632975625,0.0
+2023,S4 (Combined high-impact),Ships,Emissions (ktCO2e),46208.94320157988,0.0
+2024,S4 (Combined high-impact),Ships,Emissions (ktCO2e),45435.932447703846,0.0
+2025,S4 (Combined high-impact),Ships,Emissions (ktCO2e),47313.22243758716,0.0
+2026,S4 (Combined high-impact),Ships,Emissions (ktCO2e),49423.44903836827,0.0
+2027,S4 (Combined high-impact),Ships,Emissions (ktCO2e),51782.50835477462,0.0
+2028,S4 (Combined high-impact),Ships,Emissions (ktCO2e),54406.29649153355,0.0
+2029,S4 (Combined high-impact),Ships,Emissions (ktCO2e),57310.709553372464,0.0
+2030,S4 (Combined high-impact),Ships,Emissions (ktCO2e),60511.64364501875,0.0
+2031,S4 (Combined high-impact),Ships,Emissions (ktCO2e),64024.99487119983,0.0
+2032,S4 (Combined high-impact),Ships,Emissions (ktCO2e),67866.65933664312,0.0
+2033,S4 (Combined high-impact),Ships,Emissions (ktCO2e),72052.5331460759,0.0
+2034,S4 (Combined high-impact),Ships,Emissions (ktCO2e),76598.51240422559,0.0
+2035,S4 (Combined high-impact),Ships,Emissions (ktCO2e),81520.4932158197,0.0
+2036,S4 (Combined high-impact),Ships,Emissions (ktCO2e),86834.37168558547,0.0
+2037,S4 (Combined high-impact),Ships,Emissions (ktCO2e),92556.04391825042,0.0
+2038,S4 (Combined high-impact),Ships,Emissions (ktCO2e),98701.40601854183,0.0
+2039,S4 (Combined high-impact),Ships,Emissions (ktCO2e),105286.35409118712,0.0
+2040,S4 (Combined high-impact),Ships,Emissions (ktCO2e),112326.78424091381,0.0
+2041,S4 (Combined high-impact),Ships,Emissions (ktCO2e),119838.59257244912,0.0
+2042,S4 (Combined high-impact),Ships,Emissions (ktCO2e),127837.67519052059,0.0
+2043,S4 (Combined high-impact),Ships,Emissions (ktCO2e),136339.92819985538,0.0
+2044,S4 (Combined high-impact),Ships,Emissions (ktCO2e),145361.24770518113,0.0
+2045,S4 (Combined high-impact),Ships,Emissions (ktCO2e),154917.52981122513,0.0
+2046,S4 (Combined high-impact),Ships,Emissions (ktCO2e),165024.67062271468,0.0
+2047,S4 (Combined high-impact),Ships,Emissions (ktCO2e),175698.5662443773,0.0
+2048,S4 (Combined high-impact),Ships,Emissions (ktCO2e),186955.11278094037,0.0
+2049,S4 (Combined high-impact),Ships,Emissions (ktCO2e),198810.20633713133,0.0
+2050,S4 (Combined high-impact),Ships,Emissions (ktCO2e),211279.74301767745,0.0
+2002,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2003,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2004,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2005,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2006,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2007,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2008,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2009,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2010,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2011,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2012,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2013,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2014,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2015,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2016,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2017,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2018,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2019,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2020,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2021,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2022,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2023,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2024,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.45960626103016,0.0
+2025,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.41921252206032,0.0
+2026,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.37881878309048,0.0
+2027,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.33842504412064,0.0
+2028,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.2980313051508,0.0
+2029,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.25763756618096,0.0
+2030,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.21724382721112,0.0
+2031,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.17685008824128,0.0
+2032,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.13645634927144,0.0
+2033,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.09606261030161,0.0
+2034,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.05566887133177,0.0
+2035,S0 (baseline),Ships,Energy Intensity (MJ/t·km),37.01527513236193,0.0
+2036,S0 (baseline),Ships,Energy Intensity (MJ/t·km),36.97488139339209,0.0
+2037,S0 (baseline),Ships,Energy Intensity (MJ/t·km),36.93448765442225,0.0
+2038,S0 (baseline),Ships,Energy Intensity (MJ/t·km),36.89409391545241,0.0
+2039,S0 (baseline),Ships,Energy Intensity (MJ/t·km),36.85370017648257,0.0
+2040,S0 (baseline),Ships,Energy Intensity (MJ/t·km),36.81330643751273,0.0
+2041,S0 (baseline),Ships,Energy Intensity (MJ/t·km),36.77291269854288,0.0
+2042,S0 (baseline),Ships,Energy Intensity (MJ/t·km),36.73251895957304,0.0
+2043,S0 (baseline),Ships,Energy Intensity (MJ/t·km),36.6921252206032,0.0
+2044,S0 (baseline),Ships,Energy Intensity (MJ/t·km),36.65173148163336,0.0
+2045,S0 (baseline),Ships,Energy Intensity (MJ/t·km),36.61133774266352,0.0
+2046,S0 (baseline),Ships,Energy Intensity (MJ/t·km),36.57094400369368,0.0
+2047,S0 (baseline),Ships,Energy Intensity (MJ/t·km),36.53055026472384,0.0
+2048,S0 (baseline),Ships,Energy Intensity (MJ/t·km),36.490156525754,0.0
+2049,S0 (baseline),Ships,Energy Intensity (MJ/t·km),36.44976278678416,0.0
+2050,S0 (baseline),Ships,Energy Intensity (MJ/t·km),36.40936904781432,0.0
+2002,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2003,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2004,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2005,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2006,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2007,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2008,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2009,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2010,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2011,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2012,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2013,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2014,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2015,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2016,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2017,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2018,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2019,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2020,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2021,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2022,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2023,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2024,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.45960626103016,0.0
+2025,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.41921252206032,0.0
+2026,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.37881878309048,0.0
+2027,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.33842504412064,0.0
+2028,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.2980313051508,0.0
+2029,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.25763756618096,0.0
+2030,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.21724382721112,0.0
+2031,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.17685008824128,0.0
+2032,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.13645634927144,0.0
+2033,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.09606261030161,0.0
+2034,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.05566887133177,0.0
+2035,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),37.01527513236193,0.0
+2036,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),36.97488139339209,0.0
+2037,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),36.93448765442225,0.0
+2038,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),36.89409391545241,0.0
+2039,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),36.85370017648257,0.0
+2040,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),36.81330643751273,0.0
+2041,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),36.77291269854288,0.0
+2042,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),36.73251895957304,0.0
+2043,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),36.6921252206032,0.0
+2044,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),36.65173148163336,0.0
+2045,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),36.61133774266352,0.0
+2046,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),36.57094400369368,0.0
+2047,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),36.53055026472384,0.0
+2048,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),36.490156525754,0.0
+2049,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),36.44976278678416,0.0
+2050,S1 (Net-zero policy),Ships,Energy Intensity (MJ/t·km),36.40936904781432,0.0
+2002,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2003,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2004,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2005,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2006,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2007,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2008,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2009,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2010,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2011,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2012,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2013,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2014,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2015,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2016,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2017,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2018,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2019,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2020,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2021,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2022,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2023,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2024,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.45960626103016,0.0
+2025,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.41921252206032,0.0
+2026,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.37881878309048,0.0
+2027,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.33842504412064,0.0
+2028,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.2980313051508,0.0
+2029,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.25763756618096,0.0
+2030,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.21724382721112,0.0
+2031,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.17685008824128,0.0
+2032,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.13645634927144,0.0
+2033,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.09606261030161,0.0
+2034,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.05566887133177,0.0
+2035,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),37.01527513236193,0.0
+2036,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),36.97488139339209,0.0
+2037,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),36.93448765442225,0.0
+2038,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),36.89409391545241,0.0
+2039,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),36.85370017648257,0.0
+2040,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),36.81330643751273,0.0
+2041,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),36.77291269854288,0.0
+2042,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),36.73251895957304,0.0
+2043,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),36.6921252206032,0.0
+2044,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),36.65173148163336,0.0
+2045,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),36.61133774266352,0.0
+2046,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),36.57094400369368,0.0
+2047,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),36.53055026472384,0.0
+2048,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),36.490156525754,0.0
+2049,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),36.44976278678416,0.0
+2050,S2 (Fuel switch – HGV→HVO),Ships,Energy Intensity (MJ/t·km),36.40936904781432,0.0
+2002,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2003,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2004,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2005,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2006,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2007,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2008,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2009,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2010,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2011,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2012,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2013,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2014,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2015,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2016,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2017,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2018,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2019,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2020,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2021,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2022,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2023,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2024,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.45960626103016,0.0
+2025,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.41921252206032,0.0
+2026,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.37881878309048,0.0
+2027,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.33842504412064,0.0
+2028,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.2980313051508,0.0
+2029,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.25763756618096,0.0
+2030,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.21724382721112,0.0
+2031,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.17685008824128,0.0
+2032,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.13645634927144,0.0
+2033,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.09606261030161,0.0
+2034,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.05566887133177,0.0
+2035,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),37.01527513236193,0.0
+2036,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),36.97488139339209,0.0
+2037,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),36.93448765442225,0.0
+2038,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),36.89409391545241,0.0
+2039,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),36.85370017648257,0.0
+2040,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),36.81330643751273,0.0
+2041,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),36.77291269854288,0.0
+2042,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),36.73251895957304,0.0
+2043,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),36.6921252206032,0.0
+2044,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),36.65173148163336,0.0
+2045,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),36.61133774266352,0.0
+2046,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),36.57094400369368,0.0
+2047,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),36.53055026472384,0.0
+2048,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),36.490156525754,0.0
+2049,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),36.44976278678416,0.0
+2050,S3 (Van electrification),Ships,Energy Intensity (MJ/t·km),36.40936904781432,0.0
+2002,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2003,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2004,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2005,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2006,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2007,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2008,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2009,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2010,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2011,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2012,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2013,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2014,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2015,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2016,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2017,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2018,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2019,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2020,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2021,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2022,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2023,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.5,0.0
+2024,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.45960626103016,0.0
+2025,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.41921252206032,0.0
+2026,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.37881878309048,0.0
+2027,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.33842504412064,0.0
+2028,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.2980313051508,0.0
+2029,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.25763756618096,0.0
+2030,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.21724382721112,0.0
+2031,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.17685008824128,0.0
+2032,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.13645634927144,0.0
+2033,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.09606261030161,0.0
+2034,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.05566887133177,0.0
+2035,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),37.01527513236193,0.0
+2036,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),36.97488139339209,0.0
+2037,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),36.93448765442225,0.0
+2038,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),36.89409391545241,0.0
+2039,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),36.85370017648257,0.0
+2040,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),36.81330643751273,0.0
+2041,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),36.77291269854288,0.0
+2042,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),36.73251895957304,0.0
+2043,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),36.6921252206032,0.0
+2044,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),36.65173148163336,0.0
+2045,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),36.61133774266352,0.0
+2046,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),36.57094400369368,0.0
+2047,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),36.53055026472384,0.0
+2048,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),36.490156525754,0.0
+2049,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),36.44976278678416,0.0
+2050,S4 (Combined high-impact),Ships,Energy Intensity (MJ/t·km),36.40936904781432,0.0
+2002,S0 (baseline),Vans,Emissions (ktCO2e),110443.3,0.0
+2003,S0 (baseline),Vans,Emissions (ktCO2e),113805.2,0.0
+2004,S0 (baseline),Vans,Emissions (ktCO2e),117149.0,0.0
+2005,S0 (baseline),Vans,Emissions (ktCO2e),121864.0,0.0
+2006,S0 (baseline),Vans,Emissions (ktCO2e),125302.5,0.0
+2007,S0 (baseline),Vans,Emissions (ktCO2e),129029.5,0.0
+2008,S0 (baseline),Vans,Emissions (ktCO2e),130437.09999999999,0.0
+2009,S0 (baseline),Vans,Emissions (ktCO2e),123614.2,0.0
+2010,S0 (baseline),Vans,Emissions (ktCO2e),132544.9,0.0
+2011,S0 (baseline),Vans,Emissions (ktCO2e),136915.8,0.0
+2012,S0 (baseline),Vans,Emissions (ktCO2e),139032.1,0.0
+2013,S0 (baseline),Vans,Emissions (ktCO2e),139891.4,0.0
+2014,S0 (baseline),Vans,Emissions (ktCO2e),124372.79999999999,0.0
+2015,S0 (baseline),Vans,Emissions (ktCO2e),129418.5,0.0
+2016,S0 (baseline),Vans,Emissions (ktCO2e),154762.7,0.0
+2017,S0 (baseline),Vans,Emissions (ktCO2e),153689.6,0.0
+2018,S0 (baseline),Vans,Emissions (ktCO2e),151518.5,0.0
+2019,S0 (baseline),Vans,Emissions (ktCO2e),167516.8,0.0
+2020,S0 (baseline),Vans,Emissions (ktCO2e),153855.4,0.0
+2021,S0 (baseline),Vans,Emissions (ktCO2e),176973.6,0.0
+2022,S0 (baseline),Vans,Emissions (ktCO2e),164714.4,0.0
+2023,S0 (baseline),Vans,Emissions (ktCO2e),176981.6,0.0
+2024,S0 (baseline),Vans,Emissions (ktCO2e),186007.85134050573,0.0
+2025,S0 (baseline),Vans,Emissions (ktCO2e),193693.19328354055,0.0
+2026,S0 (baseline),Vans,Emissions (ktCO2e),202332.14256238856,0.0
+2027,S0 (baseline),Vans,Emissions (ktCO2e),211989.775431145,0.0
+2028,S0 (baseline),Vans,Emissions (ktCO2e),222731.1681439054,0.0
+2029,S0 (baseline),Vans,Emissions (ktCO2e),234621.396954765,0.0
+2030,S0 (baseline),Vans,Emissions (ktCO2e),247725.5381178191,0.0
+2031,S0 (baseline),Vans,Emissions (ktCO2e),262108.6678871631,0.0
+2032,S0 (baseline),Vans,Emissions (ktCO2e),277835.8625168923,0.0
+2033,S0 (baseline),Vans,Emissions (ktCO2e),294972.1982611022,0.0
+2034,S0 (baseline),Vans,Emissions (ktCO2e),313582.751373888,0.0
+2035,S0 (baseline),Vans,Emissions (ktCO2e),333732.598109345,0.0
+2036,S0 (baseline),Vans,Emissions (ktCO2e),355486.81472156866,0.0
+2037,S0 (baseline),Vans,Emissions (ktCO2e),378910.4774646544,0.0
+2038,S0 (baseline),Vans,Emissions (ktCO2e),404068.66259269725,0.0
+2039,S0 (baseline),Vans,Emissions (ktCO2e),431026.4463597929,0.0
+2040,S0 (baseline),Vans,Emissions (ktCO2e),459848.9050200366,0.0
+2041,S0 (baseline),Vans,Emissions (ktCO2e),490601.1148275235,0.0
+2042,S0 (baseline),Vans,Emissions (ktCO2e),523348.1520363492,0.0
+2043,S0 (baseline),Vans,Emissions (ktCO2e),558155.0929006088,0.0
+2044,S0 (baseline),Vans,Emissions (ktCO2e),595087.013674398,0.0
+2045,S0 (baseline),Vans,Emissions (ktCO2e),634208.9906118119,0.0
+2046,S0 (baseline),Vans,Emissions (ktCO2e),675586.0999669457,0.0
+2047,S0 (baseline),Vans,Emissions (ktCO2e),719283.4179938951,0.0
+2048,S0 (baseline),Vans,Emissions (ktCO2e),765366.0209467551,0.0
+2049,S0 (baseline),Vans,Emissions (ktCO2e),813898.9850796212,0.0
+2050,S0 (baseline),Vans,Emissions (ktCO2e),864947.3866465889,0.0
+2002,S1 (Net-zero policy),Vans,Emissions (ktCO2e),110443.3,0.0
+2003,S1 (Net-zero policy),Vans,Emissions (ktCO2e),113805.2,0.0
+2004,S1 (Net-zero policy),Vans,Emissions (ktCO2e),117149.0,0.0
+2005,S1 (Net-zero policy),Vans,Emissions (ktCO2e),121864.0,0.0
+2006,S1 (Net-zero policy),Vans,Emissions (ktCO2e),125302.5,0.0
+2007,S1 (Net-zero policy),Vans,Emissions (ktCO2e),129029.5,0.0
+2008,S1 (Net-zero policy),Vans,Emissions (ktCO2e),130437.09999999999,0.0
+2009,S1 (Net-zero policy),Vans,Emissions (ktCO2e),123614.2,0.0
+2010,S1 (Net-zero policy),Vans,Emissions (ktCO2e),132544.9,0.0
+2011,S1 (Net-zero policy),Vans,Emissions (ktCO2e),136915.8,0.0
+2012,S1 (Net-zero policy),Vans,Emissions (ktCO2e),139032.1,0.0
+2013,S1 (Net-zero policy),Vans,Emissions (ktCO2e),139891.4,0.0
+2014,S1 (Net-zero policy),Vans,Emissions (ktCO2e),124372.79999999999,0.0
+2015,S1 (Net-zero policy),Vans,Emissions (ktCO2e),129418.5,0.0
+2016,S1 (Net-zero policy),Vans,Emissions (ktCO2e),154762.7,0.0
+2017,S1 (Net-zero policy),Vans,Emissions (ktCO2e),153689.6,0.0
+2018,S1 (Net-zero policy),Vans,Emissions (ktCO2e),151518.5,0.0
+2019,S1 (Net-zero policy),Vans,Emissions (ktCO2e),167516.8,0.0
+2020,S1 (Net-zero policy),Vans,Emissions (ktCO2e),153855.4,0.0
+2021,S1 (Net-zero policy),Vans,Emissions (ktCO2e),176973.6,0.0
+2022,S1 (Net-zero policy),Vans,Emissions (ktCO2e),164714.4,0.0
+2023,S1 (Net-zero policy),Vans,Emissions (ktCO2e),176981.6,0.0
+2024,S1 (Net-zero policy),Vans,Emissions (ktCO2e),186007.85134050573,0.0
+2025,S1 (Net-zero policy),Vans,Emissions (ktCO2e),179569.11802487285,7.291983274803037
+2026,S1 (Net-zero policy),Vans,Emissions (ktCO2e),173130.38470923994,14.432584701239126
+2027,S1 (Net-zero policy),Vans,Emissions (ktCO2e),166691.65139360706,21.368070203107948
+2028,S1 (Net-zero policy),Vans,Emissions (ktCO2e),160252.9180779742,28.050968612333747
+2029,S1 (Net-zero policy),Vans,Emissions (ktCO2e),153814.1847623413,34.44153570017458
+2030,S1 (Net-zero policy),Vans,Emissions (ktCO2e),147375.4514467084,40.508575512058776
+2031,S1 (Net-zero policy),Vans,Emissions (ktCO2e),140936.7181310755,46.22966143502424
+2032,S1 (Net-zero policy),Vans,Emissions (ktCO2e),134497.98481544259,51.59084806509989
+2033,S1 (Net-zero policy),Vans,Emissions (ktCO2e),128059.25149980972,56.58599276313668
+2034,S1 (Net-zero policy),Vans,Emissions (ktCO2e),121620.51818417684,61.21581379992185
+2035,S1 (Net-zero policy),Vans,Emissions (ktCO2e),115181.78486854395,65.48680424954907
+2036,S1 (Net-zero policy),Vans,Emissions (ktCO2e),108743.05155291104,69.4101026959093
+2037,S1 (Net-zero policy),Vans,Emissions (ktCO2e),102304.31823727814,73.00039868999892
+2038,S1 (Net-zero policy),Vans,Emissions (ktCO2e),95865.58492164526,76.27492706152317
+2039,S1 (Net-zero policy),Vans,Emissions (ktCO2e),89426.85160601238,79.25258360333541
+2040,S1 (Net-zero policy),Vans,Emissions (ktCO2e),82988.1182903795,81.95317692737281
+2041,S1 (Net-zero policy),Vans,Emissions (ktCO2e),76549.38497474659,84.39681797265007
+2042,S1 (Net-zero policy),Vans,Emissions (ktCO2e),70110.65165911369,86.60343952943887
+2043,S1 (Net-zero policy),Vans,Emissions (ktCO2e),63671.91834348083,88.59243261356052
+2044,S1 (Net-zero policy),Vans,Emissions (ktCO2e),57233.185027847925,90.38238380057088
+2045,S1 (Net-zero policy),Vans,Emissions (ktCO2e),50794.451712215036,91.99089693395636
+2046,S1 (Net-zero policy),Vans,Emissions (ktCO2e),44355.71839658214,93.43448327330115
+2047,S1 (Net-zero policy),Vans,Emissions (ktCO2e),37916.98508094924,94.72850560260365
+2048,S1 (Net-zero policy),Vans,Emissions (ktCO2e),31478.251765316345,95.88716367021652
+2049,S1 (Net-zero policy),Vans,Emissions (ktCO2e),25039.51844968347,96.92351029934827
+2050,S1 (Net-zero policy),Vans,Emissions (ktCO2e),18600.785134050577,97.84948941158537
+2002,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),110443.3,0.0
+2003,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),113805.2,0.0
+2004,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),117149.0,0.0
+2005,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),121864.0,0.0
+2006,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),125302.5,0.0
+2007,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),129029.5,0.0
+2008,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),130437.09999999999,0.0
+2009,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),123614.2,0.0
+2010,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),132544.9,0.0
+2011,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),136915.8,0.0
+2012,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),139032.1,0.0
+2013,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),139891.4,0.0
+2014,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),124372.79999999999,0.0
+2015,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),129418.5,0.0
+2016,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),154762.7,0.0
+2017,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),153689.6,0.0
+2018,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),151518.5,0.0
+2019,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),167516.8,0.0
+2020,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),153855.4,0.0
+2021,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),176973.6,0.0
+2022,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),164714.4,0.0
+2023,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),176981.6,0.0
+2024,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),186007.85134050573,0.0
+2025,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),193693.19328354055,0.0
+2026,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),202332.14256238856,0.0
+2027,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),211989.775431145,0.0
+2028,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),222731.1681439054,0.0
+2029,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),234621.396954765,0.0
+2030,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),247725.5381178191,0.0
+2031,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),262108.6678871631,0.0
+2032,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),277835.8625168923,0.0
+2033,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),294972.1982611022,0.0
+2034,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),313582.751373888,0.0
+2035,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),333732.598109345,0.0
+2036,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),355486.81472156866,0.0
+2037,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),378910.4774646544,0.0
+2038,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),404068.66259269725,0.0
+2039,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),431026.4463597929,0.0
+2040,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),459848.9050200366,0.0
+2041,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),490601.1148275235,0.0
+2042,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),523348.1520363492,0.0
+2043,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),558155.0929006088,0.0
+2044,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),595087.013674398,0.0
+2045,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),634208.9906118119,0.0
+2046,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),675586.0999669457,0.0
+2047,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),719283.4179938951,0.0
+2048,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),765366.0209467551,0.0
+2049,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),813898.9850796212,0.0
+2050,S2 (Fuel switch – HGV→HVO),Vans,Emissions (ktCO2e),864947.3866465889,0.0
+2002,S3 (Van electrification),Vans,Emissions (ktCO2e),110443.3,0.0
+2003,S3 (Van electrification),Vans,Emissions (ktCO2e),113805.2,0.0
+2004,S3 (Van electrification),Vans,Emissions (ktCO2e),117149.0,0.0
+2005,S3 (Van electrification),Vans,Emissions (ktCO2e),121864.0,0.0
+2006,S3 (Van electrification),Vans,Emissions (ktCO2e),125302.5,0.0
+2007,S3 (Van electrification),Vans,Emissions (ktCO2e),129029.5,0.0
+2008,S3 (Van electrification),Vans,Emissions (ktCO2e),130437.09999999999,0.0
+2009,S3 (Van electrification),Vans,Emissions (ktCO2e),123614.2,0.0
+2010,S3 (Van electrification),Vans,Emissions (ktCO2e),132544.9,0.0
+2011,S3 (Van electrification),Vans,Emissions (ktCO2e),136915.8,0.0
+2012,S3 (Van electrification),Vans,Emissions (ktCO2e),139032.1,0.0
+2013,S3 (Van electrification),Vans,Emissions (ktCO2e),139891.4,0.0
+2014,S3 (Van electrification),Vans,Emissions (ktCO2e),124372.79999999999,0.0
+2015,S3 (Van electrification),Vans,Emissions (ktCO2e),129418.5,0.0
+2016,S3 (Van electrification),Vans,Emissions (ktCO2e),154762.7,0.0
+2017,S3 (Van electrification),Vans,Emissions (ktCO2e),153689.6,0.0
+2018,S3 (Van electrification),Vans,Emissions (ktCO2e),151518.5,0.0
+2019,S3 (Van electrification),Vans,Emissions (ktCO2e),167516.8,0.0
+2020,S3 (Van electrification),Vans,Emissions (ktCO2e),153855.4,0.0
+2021,S3 (Van electrification),Vans,Emissions (ktCO2e),176973.6,0.0
+2022,S3 (Van electrification),Vans,Emissions (ktCO2e),164714.4,0.0
+2023,S3 (Van electrification),Vans,Emissions (ktCO2e),176981.6,0.0
+2024,S3 (Van electrification),Vans,Emissions (ktCO2e),186007.85134050573,0.0
+2025,S3 (Van electrification),Vans,Emissions (ktCO2e),188986.31323696498,2.4300699300699335
+2026,S3 (Van electrification),Vans,Emissions (ktCO2e),192003.2989210918,5.1048951048951015
+2027,S3 (Van electrification),Vans,Emissions (ktCO2e),194978.70778728215,8.024475524475527
+2028,S3 (Van electrification),Vans,Emissions (ktCO2e),197810.19828165026,11.188811188811187
+2029,S3 (Van electrification),Vans,Emissions (ktCO2e),200371.59512657812,14.597902097902104
+2030,S3 (Van electrification),Vans,Emissions (ktCO2e),202511.2965452661,18.251748251748257
+2031,S3 (Van electrification),Vans,Emissions (ktCO2e),204050.68148628273,22.150349650349654
+2032,S3 (Van electrification),Vans,Emissions (ktCO2e),204782.51684811505,26.293706293706286
+2033,S3 (Van electrification),Vans,Emissions (ktCO2e),204469.36470371857,30.681818181818176
+2034,S3 (Van electrification),Vans,Emissions (ktCO2e),202841.98952506742,35.31468531468531
+2035,S3 (Van electrification),Vans,Emissions (ktCO2e),199597.76540770443,40.19230769230769
+2036,S3 (Van electrification),Vans,Emissions (ktCO2e),199619.51903595778,43.84615384615385
+2037,S3 (Van electrification),Vans,Emissions (ktCO2e),198522.02515737433,47.60714285714285
+2038,S3 (Van electrification),Vans,Emissions (ktCO2e),196439.53442968047,51.384615384615394
+2039,S3 (Van electrification),Vans,Emissions (ktCO2e),193192.21077912144,55.17857142857143
+2040,S3 (Van electrification),Vans,Emissions (ktCO2e),188588.5839049205,58.98901098901099
+2041,S3 (Van electrification),Vans,Emissions (ktCO2e),182425.44201072885,62.815934065934066
+2042,S3 (Van electrification),Vans,Emissions (ktCO2e),174487.72453607508,66.65934065934066
+2043,S3 (Van electrification),Vans,Emissions (ktCO2e),164548.41488781403,70.51923076923077
+2044,S3 (Van electrification),Vans,Emissions (ktCO2e),152368.43317157662,74.3956043956044
+2045,S3 (Van electrification),Vans,Emissions (ktCO2e),137696.52892321837,78.28846153846155
+2046,S3 (Van electrification),Vans,Emissions (ktCO2e),120269.1738402694,82.1978021978022
+2047,S3 (Van electrification),Vans,Emissions (ktCO2e),99810.45451338356,86.12362637362638
+2048,S3 (Van electrification),Vans,Emissions (ktCO2e),76031.96515778758,90.06593406593406
+2049,S3 (Van electrification),Vans,Emissions (ktCO2e),48632.70034473012,94.02472527472527
+2050,S3 (Van electrification),Vans,Emissions (ktCO2e),17298.947732931792,98.0
+2002,S4 (Combined high-impact),Vans,Emissions (ktCO2e),110443.3,0.0
+2003,S4 (Combined high-impact),Vans,Emissions (ktCO2e),113805.2,0.0
+2004,S4 (Combined high-impact),Vans,Emissions (ktCO2e),117149.0,0.0
+2005,S4 (Combined high-impact),Vans,Emissions (ktCO2e),121864.0,0.0
+2006,S4 (Combined high-impact),Vans,Emissions (ktCO2e),125302.5,0.0
+2007,S4 (Combined high-impact),Vans,Emissions (ktCO2e),129029.5,0.0
+2008,S4 (Combined high-impact),Vans,Emissions (ktCO2e),130437.09999999999,0.0
+2009,S4 (Combined high-impact),Vans,Emissions (ktCO2e),123614.2,0.0
+2010,S4 (Combined high-impact),Vans,Emissions (ktCO2e),132544.9,0.0
+2011,S4 (Combined high-impact),Vans,Emissions (ktCO2e),136915.8,0.0
+2012,S4 (Combined high-impact),Vans,Emissions (ktCO2e),139032.1,0.0
+2013,S4 (Combined high-impact),Vans,Emissions (ktCO2e),139891.4,0.0
+2014,S4 (Combined high-impact),Vans,Emissions (ktCO2e),124372.79999999999,0.0
+2015,S4 (Combined high-impact),Vans,Emissions (ktCO2e),129418.5,0.0
+2016,S4 (Combined high-impact),Vans,Emissions (ktCO2e),154762.7,0.0
+2017,S4 (Combined high-impact),Vans,Emissions (ktCO2e),153689.6,0.0
+2018,S4 (Combined high-impact),Vans,Emissions (ktCO2e),151518.5,0.0
+2019,S4 (Combined high-impact),Vans,Emissions (ktCO2e),167516.8,0.0
+2020,S4 (Combined high-impact),Vans,Emissions (ktCO2e),153855.4,0.0
+2021,S4 (Combined high-impact),Vans,Emissions (ktCO2e),176973.6,0.0
+2022,S4 (Combined high-impact),Vans,Emissions (ktCO2e),164714.4,0.0
+2023,S4 (Combined high-impact),Vans,Emissions (ktCO2e),176981.6,0.0
+2024,S4 (Combined high-impact),Vans,Emissions (ktCO2e),186007.85134050573,0.0
+2025,S4 (Combined high-impact),Vans,Emissions (ktCO2e),188986.31323696498,2.4300699300699335
+2026,S4 (Combined high-impact),Vans,Emissions (ktCO2e),192003.2989210918,5.1048951048951015
+2027,S4 (Combined high-impact),Vans,Emissions (ktCO2e),194978.70778728215,8.024475524475527
+2028,S4 (Combined high-impact),Vans,Emissions (ktCO2e),197810.19828165026,11.188811188811187
+2029,S4 (Combined high-impact),Vans,Emissions (ktCO2e),200371.59512657812,14.597902097902104
+2030,S4 (Combined high-impact),Vans,Emissions (ktCO2e),202511.2965452661,18.251748251748257
+2031,S4 (Combined high-impact),Vans,Emissions (ktCO2e),204050.68148628273,22.150349650349654
+2032,S4 (Combined high-impact),Vans,Emissions (ktCO2e),204782.51684811505,26.293706293706286
+2033,S4 (Combined high-impact),Vans,Emissions (ktCO2e),204469.36470371857,30.681818181818176
+2034,S4 (Combined high-impact),Vans,Emissions (ktCO2e),202841.98952506742,35.31468531468531
+2035,S4 (Combined high-impact),Vans,Emissions (ktCO2e),199597.76540770443,40.19230769230769
+2036,S4 (Combined high-impact),Vans,Emissions (ktCO2e),199619.51903595778,43.84615384615385
+2037,S4 (Combined high-impact),Vans,Emissions (ktCO2e),198522.02515737433,47.60714285714285
+2038,S4 (Combined high-impact),Vans,Emissions (ktCO2e),196439.53442968047,51.384615384615394
+2039,S4 (Combined high-impact),Vans,Emissions (ktCO2e),193192.21077912144,55.17857142857143
+2040,S4 (Combined high-impact),Vans,Emissions (ktCO2e),188588.5839049205,58.98901098901099
+2041,S4 (Combined high-impact),Vans,Emissions (ktCO2e),182425.44201072885,62.815934065934066
+2042,S4 (Combined high-impact),Vans,Emissions (ktCO2e),174487.72453607508,66.65934065934066
+2043,S4 (Combined high-impact),Vans,Emissions (ktCO2e),164548.41488781403,70.51923076923077
+2044,S4 (Combined high-impact),Vans,Emissions (ktCO2e),152368.43317157662,74.3956043956044
+2045,S4 (Combined high-impact),Vans,Emissions (ktCO2e),137696.52892321837,78.28846153846155
+2046,S4 (Combined high-impact),Vans,Emissions (ktCO2e),120269.1738402694,82.1978021978022
+2047,S4 (Combined high-impact),Vans,Emissions (ktCO2e),99810.45451338356,86.12362637362638
+2048,S4 (Combined high-impact),Vans,Emissions (ktCO2e),76031.96515778758,90.06593406593406
+2049,S4 (Combined high-impact),Vans,Emissions (ktCO2e),48632.70034473012,94.02472527472527
+2050,S4 (Combined high-impact),Vans,Emissions (ktCO2e),17298.947732931792,98.0
+2002,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.37,0.0
+2003,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.39,0.0
+2004,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.3775,0.0
+2005,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.345,0.0
+2006,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.345,0.0
+2007,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.355,0.0
+2008,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.36,0.0
+2009,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.34,0.0
+2010,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.365,0.0
+2011,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.36,0.0
+2012,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.3675,0.0
+2013,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.37,0.0
+2014,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.3775,0.0
+2015,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.365,0.0
+2016,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.3525,0.0
+2017,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.3425,0.0
+2018,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.33,0.0
+2019,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.32,0.0
+2020,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.3125,0.0
+2021,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.982,0.0
+2022,S0 (baseline),Vans,Energy Intensity (MJ/t·km),2.2925,0.0
+2023,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9604026217228465,0.0
+2024,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9582909419421088,0.0
+2025,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9561792621613712,0.0
+2026,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9540675823806335,0.0
+2027,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9519559025998958,0.0
+2028,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9498442228191581,0.0
+2029,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9477325430384202,0.0
+2030,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9456208632576826,0.0
+2031,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.943509183476945,0.0
+2032,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9413975036962072,0.0
+2033,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.93928582391547,0.0
+2034,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9371741441347323,0.0
+2035,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9350624643539946,0.0
+2036,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.932950784573257,0.0
+2037,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9308391047925193,0.0
+2038,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9287274250117816,0.0
+2039,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.926615745231044,0.0
+2040,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9245040654503063,0.0
+2041,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9223923856695686,0.0
+2042,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.920280705888831,0.0
+2043,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.918169026108093,0.0
+2044,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9160573463273554,0.0
+2045,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9139456665466177,0.0
+2046,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.91183398676588,0.0
+2047,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9097223069851423,0.0
+2048,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9076106272044047,0.0
+2049,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.905498947423667,0.0
+2050,S0 (baseline),Vans,Energy Intensity (MJ/t·km),1.9033872676429293,0.0
+2002,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.37,0.0
+2003,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.39,0.0
+2004,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.3775,0.0
+2005,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.345,0.0
+2006,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.345,0.0
+2007,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.355,0.0
+2008,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.36,0.0
+2009,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.34,0.0
+2010,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.365,0.0
+2011,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.36,0.0
+2012,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.3675,0.0
+2013,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.37,0.0
+2014,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.3775,0.0
+2015,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.365,0.0
+2016,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.3525,0.0
+2017,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.3425,0.0
+2018,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.33,0.0
+2019,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.32,0.0
+2020,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.3125,0.0
+2021,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.982,0.0
+2022,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),2.2925,0.0
+2023,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9604026217228465,0.0
+2024,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9582909419421088,0.0
+2025,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9561792621613712,0.0
+2026,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9540675823806335,0.0
+2027,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9519559025998958,0.0
+2028,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9498442228191581,0.0
+2029,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9477325430384202,0.0
+2030,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9456208632576826,0.0
+2031,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.943509183476945,0.0
+2032,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9413975036962072,0.0
+2033,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.93928582391547,0.0
+2034,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9371741441347323,0.0
+2035,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9350624643539946,0.0
+2036,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.932950784573257,0.0
+2037,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9308391047925193,0.0
+2038,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9287274250117816,0.0
+2039,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.926615745231044,0.0
+2040,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9245040654503063,0.0
+2041,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9223923856695686,0.0
+2042,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.920280705888831,0.0
+2043,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.918169026108093,0.0
+2044,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9160573463273554,0.0
+2045,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9139456665466177,0.0
+2046,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.91183398676588,0.0
+2047,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9097223069851423,0.0
+2048,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9076106272044047,0.0
+2049,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.905498947423667,0.0
+2050,S1 (Net-zero policy),Vans,Energy Intensity (MJ/t·km),1.9033872676429293,0.0
+2002,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.37,0.0
+2003,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.39,0.0
+2004,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.3775,0.0
+2005,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.345,0.0
+2006,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.345,0.0
+2007,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.355,0.0
+2008,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.36,0.0
+2009,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.34,0.0
+2010,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.365,0.0
+2011,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.36,0.0
+2012,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.3675,0.0
+2013,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.37,0.0
+2014,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.3775,0.0
+2015,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.365,0.0
+2016,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.3525,0.0
+2017,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.3425,0.0
+2018,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.33,0.0
+2019,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.32,0.0
+2020,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.3125,0.0
+2021,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.982,0.0
+2022,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),2.2925,0.0
+2023,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9604026217228465,0.0
+2024,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9582909419421088,0.0
+2025,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9561792621613712,0.0
+2026,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9540675823806335,0.0
+2027,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9519559025998958,0.0
+2028,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9498442228191581,0.0
+2029,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9477325430384202,0.0
+2030,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9456208632576826,0.0
+2031,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.943509183476945,0.0
+2032,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9413975036962072,0.0
+2033,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.93928582391547,0.0
+2034,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9371741441347323,0.0
+2035,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9350624643539946,0.0
+2036,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.932950784573257,0.0
+2037,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9308391047925193,0.0
+2038,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9287274250117816,0.0
+2039,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.926615745231044,0.0
+2040,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9245040654503063,0.0
+2041,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9223923856695686,0.0
+2042,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.920280705888831,0.0
+2043,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.918169026108093,0.0
+2044,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9160573463273554,0.0
+2045,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9139456665466177,0.0
+2046,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.91183398676588,0.0
+2047,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9097223069851423,0.0
+2048,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9076106272044047,0.0
+2049,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.905498947423667,0.0
+2050,S2 (Fuel switch – HGV→HVO),Vans,Energy Intensity (MJ/t·km),1.9033872676429293,0.0
+2002,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.37,0.0
+2003,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.39,0.0
+2004,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.3775,0.0
+2005,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.345,0.0
+2006,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.345,0.0
+2007,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.355,0.0
+2008,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.36,0.0
+2009,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.34,0.0
+2010,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.365,0.0
+2011,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.36,0.0
+2012,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.3675,0.0
+2013,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.37,0.0
+2014,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.3775,0.0
+2015,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.365,0.0
+2016,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.3525,0.0
+2017,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.3425,0.0
+2018,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.33,0.0
+2019,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.32,0.0
+2020,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.3125,0.0
+2021,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.982,0.0
+2022,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),2.2925,0.0
+2023,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.9604026217228465,0.0
+2024,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.9582909419421088,0.0
+2025,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.9185604301967294,1.9230769230769273
+2026,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.8789111369044553,3.8461538461538436
+2027,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.8393430620652864,5.769230769230771
+2028,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.799856205679223,7.692307692307687
+2029,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.7604505677462645,9.615384615384615
+2030,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.7211261482664115,11.538461538461542
+2031,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.681882947239664,13.461538461538458
+2032,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.6427209646660215,15.384615384615385
+2033,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.6036402005454846,17.307692307692314
+2034,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.5646406548780531,19.23076923076923
+2035,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.5257223276637264,21.153846153846157
+2036,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.4868852189025052,23.076923076923084
+2037,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.4481293285943895,25.0
+2038,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.4094546567393789,26.923076923076927
+2039,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.3708612033374734,28.846153846153854
+2040,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.3323489683886736,30.76923076923077
+2041,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.2939179518929789,32.692307692307686
+2042,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.2555681538503896,34.61538461538461
+2043,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.2172995742609052,36.53846153846154
+2044,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.1791122131245264,38.46153846153846
+2045,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.1410060704412528,40.38461538461539
+2046,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.1029811462110846,42.307692307692314
+2047,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.0650374404340217,44.230769230769226
+2048,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),1.027174953110064,46.15384615384615
+2049,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),0.9893936842392116,48.07692307692308
+2050,S3 (Van electrification),Vans,Energy Intensity (MJ/t·km),0.9516936338214647,50.0
+2002,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.37,0.0
+2003,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.39,0.0
+2004,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.3775,0.0
+2005,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.345,0.0
+2006,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.345,0.0
+2007,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.355,0.0
+2008,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.36,0.0
+2009,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.34,0.0
+2010,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.365,0.0
+2011,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.36,0.0
+2012,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.3675,0.0
+2013,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.37,0.0
+2014,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.3775,0.0
+2015,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.365,0.0
+2016,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.3525,0.0
+2017,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.3425,0.0
+2018,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.33,0.0
+2019,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.32,0.0
+2020,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.3125,0.0
+2021,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.982,0.0
+2022,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),2.2925,0.0
+2023,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.9604026217228465,0.0
+2024,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.9582909419421088,0.0
+2025,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.9185604301967294,1.9230769230769273
+2026,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.8789111369044553,3.8461538461538436
+2027,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.8393430620652864,5.769230769230771
+2028,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.799856205679223,7.692307692307687
+2029,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.7604505677462645,9.615384615384615
+2030,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.7211261482664115,11.538461538461542
+2031,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.681882947239664,13.461538461538458
+2032,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.6427209646660215,15.384615384615385
+2033,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.6036402005454846,17.307692307692314
+2034,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.5646406548780531,19.23076923076923
+2035,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.5257223276637264,21.153846153846157
+2036,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.4868852189025052,23.076923076923084
+2037,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.4481293285943895,25.0
+2038,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.4094546567393789,26.923076923076927
+2039,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.3708612033374734,28.846153846153854
+2040,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.3323489683886736,30.76923076923077
+2041,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.2939179518929789,32.692307692307686
+2042,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.2555681538503896,34.61538461538461
+2043,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.2172995742609052,36.53846153846154
+2044,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.1791122131245264,38.46153846153846
+2045,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.1410060704412528,40.38461538461539
+2046,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.1029811462110846,42.307692307692314
+2047,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.0650374404340217,44.230769230769226
+2048,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),1.027174953110064,46.15384615384615
+2049,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),0.9893936842392116,48.07692307692308
+2050,S4 (Combined high-impact),Vans,Energy Intensity (MJ/t·km),0.9516936338214647,50.0

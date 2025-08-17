@@ -1,0 +1,9 @@
+Scenario,Assumption_Shift,2050_Emissions_ktCO2e,%_Change_from_Base
+S1 Net-Zero Trajectory,-10%,51756.677,-10.0
+S1 Net-Zero Trajectory,10%,63258.161,10.0
+S2 Fuel Switch,-10%,9669192.594,2.51
+S2 Fuel Switch,10%,9195761.691,-2.51
+S3 Van Electrification,-10%,3100338.814,45.3
+S3 Van Electrification,10%,1937474.159,-9.199
+S4 Combined High-Impact,-10%,2880107.297,99.948
+S4 Combined High-Impact,10%,1668302.304,15.82
